@@ -1,0 +1,489 @@
+[06:34:21] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[06:34:21] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[06:34:21] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[06:34:21] [main/INFO]: Forge Mod Loader version 7.99.4.1614 for Minecraft 1.7.10 loading
+[06:34:22] [main/INFO]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_242, running on Linux:amd64:4.9.0-12-amd64, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[06:34:22] [main/INFO]: [pw.prok.imagine.ImagineLoadingPlugin:<clinit>:26]: Loading plugin initialized!
+[06:34:22] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[06:34:22] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[06:34:22] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[06:34:22] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[06:34:22] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:34:24] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:34:24] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:34:25] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:34:25] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[06:34:26] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[06:34:26] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[06:34:27] [main/INFO]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[06:34:34] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[06:34:35] [Server thread/INFO]: Attempting early MinecraftForge initialization
+[06:34:35] [Server thread/INFO]: MinecraftForge v10.13.4.1614 Initialized
+[06:34:35] [Server thread/INFO]: Replaced 183 ore recipies
+[06:34:35] [Server thread/INFO]: Completed early MinecraftForge initialization
+[06:34:35] [Server thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[06:34:35] [Server thread/INFO]: Searching /home/minecraft/mods for mods
+[06:34:37] [Server thread/INFO]: Forge Mod Loader has identified 8 mods to load
+[06:34:38] [Server thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, kimagine, UraniumPlus, VeinMiner, VeinMinerModSupport, yarr_cutemobmodels] at CLIENT
+[06:34:38] [Server thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, kimagine, UraniumPlus, VeinMiner, VeinMinerModSupport, yarr_cutemobmodels] at SERVER
+[06:34:38] [Server thread/INFO]: Processing ObjectHolder annotations
+[06:34:38] [Server thread/INFO]: Found 341 ObjectHolder annotations
+[06:34:38] [Server thread/INFO]: Identifying ItemStackHolder annotations
+[06:34:38] [Server thread/INFO]: Found 0 ItemStackHolder annotations
+[06:34:38] [Server thread/INFO]: Configured a dormant chunk cache size of 0
+[06:34:38] [Server thread/INFO]: Applying holder lookups
+[06:34:38] [Server thread/INFO]: Holder lookups applied
+[06:34:38] [Server thread/INFO]: Injecting itemstacks
+[06:34:38] [Server thread/INFO]: Itemstack injection complete
+[06:34:38] [Server thread/INFO]: Loading properties
+[06:34:38] [Server thread/INFO]: Default game type: SURVIVAL
+[06:34:39] [Server thread/INFO]: This server is running Uranium version 1710-dev-4-B210 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[06:34:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[06:34:39] [Server thread/INFO]: Using 2 threads for Netty based IO
+[06:34:39] [Server thread/INFO]: Generating keypair
+[06:34:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:34:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:34:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:34:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:34:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:34:40] [Server thread/INFO]: Injecting itemstacks
+[06:34:40] [Server thread/INFO]: Itemstack injection complete
+[06:34:40] [Server thread/INFO]: Forge Mod Loader has successfully loaded 8 mods
+[06:34:40] [Server thread/INFO]: Preparing level "world"
+[06:34:40] [Server thread/INFO]: Registered command debug with permission node vanilla.command.debug
+[06:34:40] [Server thread/INFO]: Registered command spreadplayers with permission node vanilla.command.spreadplayers
+[06:34:40] [Server thread/INFO]: Registered command playsound with permission node vanilla.command.playsound
+[06:34:40] [Server thread/INFO]: Registered command scoreboard with permission node vanilla.command.scoreboard
+[06:34:40] [Server thread/INFO]: Registered command achievement with permission node vanilla.command.achievement
+[06:34:40] [Server thread/INFO]: Registered command summon with permission node vanilla.command.summon
+[06:34:40] [Server thread/INFO]: Registered command setblock with permission node vanilla.command.setblock
+[06:34:40] [Server thread/INFO]: Registered command testforblock with permission node vanilla.command.testforblock
+[06:34:40] [Server thread/INFO]: Registered command tellraw with permission node vanilla.command.tellraw
+[06:34:40] [Server thread/INFO]: Registered command netstat with permission node vanilla.command.netstat
+[06:34:40] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[06:34:40] [Server thread/INFO]: Applying holder lookups
+[06:34:40] [Server thread/INFO]: Holder lookups applied
+[06:34:42] [Server thread/INFO]: Mapping loaded 11 packages, 7856 classes, 26736 fields, 53884 methods, flags 1ffa
+[06:34:42] [Server thread/INFO]: Loaded inheritance map of 895 classes
+[06:34:43] [Server thread/INFO]: [Scavenger] Loading Scavenger v1.6-54
+[06:34:43] [Server thread/INFO]: [Essentials] Loading Essentials vPre2.14.1.3
+[06:34:43] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vPre2.14.1.3
+[06:34:43] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vPre2.14.1.3
+[06:34:43] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat vPre2.14.1.3
+[06:34:43] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.7.0
+[06:34:44] [Server thread/WARN]: [ProtocolLib] [MinecraftReflection] Cannot find standard Minecraft library location. Assuming MCPC.
+[06:34:46] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild vPre2.14.1.3
+[06:34:46] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.7.0
+[06:34:46] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[06:34:46] [Server thread/INFO]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@3d15e227)
+[06:34:46] [Server thread/INFO]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@3d15e227)
+[06:34:46] [Server thread/INFO]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@3d15e227)
+[06:34:46] [Server thread/INFO]: Preparing start region for level 0
+[06:34:47] [Server thread/INFO]: Preparing spawn area: 15%
+[06:34:48] [Server thread/INFO]: Preparing spawn area: 71%
+[06:34:49] [Server thread/INFO]: [Scavenger] Enabling Scavenger v1.6-54
+[06:34:49] [Server thread/INFO]: [Scavenger] Configuration loaded.
+[06:34:49] [Server thread/INFO]: [Scavenger] Economy disabled. Item recovery will be free.
+[06:34:49] [Server thread/INFO]: [Scavenger] Loaded ignore list. (Count = 0)
+[06:34:49] [Server thread/INFO]: [Scavenger] Offline-mode is set to false, no Authenticator Hook
+[06:34:49] [Server thread/INFO]: [Essentials] Enabling Essentials vPre2.14.1.3
+[06:34:49] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[06:34:49] [Server thread/INFO]: 1710-dev-4-B210 (MC: 1.7.10)
+[06:34:49] [Server thread/INFO]: 1.7.10-R0.1-SNAPSHOT
+[06:34:49] [Server thread/INFO]: Using locale en_US
+[06:34:50] [Server thread/INFO]: Using locale en_US
+[06:34:50] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[06:34:50] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[06:34:50] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vPre2.14.1.3
+[06:34:50] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vPre2.14.1.3
+[06:34:50] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat vPre2.14.1.3
+[06:34:50] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild vPre2.14.1.3
+[06:34:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:34:51] [Server thread/INFO]: Done (10.377s)! For help, type "help" or "?"
+[06:34:51] [Server thread/INFO]: Registered command forge with permission node net.minecraftforge.server.command.ForgeCommand
+[06:34:51] [Server thread/INFO]: Registered command veinminer with permission node portablejim.veinminer.server.MinerCommand
+[06:47:28] [User Authenticator #1/INFO]: UUID of player Atlas is 1d4a9c61-6828-3517-9704-a0518eccaaa5
+[06:47:28] [Netty IO #0/INFO]: Client protocol version 2
+[06:47:28] [Netty IO #0/INFO]: Client attempting to join with 37 mods : DynamicLights_dropItems@1.0.8,VeinMinerModSupport@0.36.0_1.7.10-28a7f13,NotEnoughItems@1.0.5.120,DynamicLights_entityClasses@1.0.1,Waila@1.5.10,yarr_cutemobmodels@1.0.9,neiintegration@1.1.1,DynamicLights_onFire@1.0.4,FastCraft@1.25,NEIAddons@1.12.14.40,Forge@10.13.4.1614,NEIAddons|Botany@1.12.14.40,DynamicLights_otherPlayers@1.0.8,VeinMiner@0.36.0_1.7.10-28a7f13,DynamicLights_mobEquipment@1.0.8,DynamicLights@1.3.8,DynamicLights_floodLights@1.0.2,CodeChickenCore@1.0.7.47,MouseTweaks@2.4.4,NEIAddons|Developer@1.12.14.40,DynamicLights_flameArrows@1.0.0,mod_RadarBro@v1.9.9.9.9.9,bspkrsCore@6.15,mcp@9.05,craftguide@1.7.1.0,DynamicLights_creepers@1.0.4,InputFix@1.7.10-v5,FML@7.10.99.99,NEIAddons|Forestry@1.12.14.40,inventorytweaks@1.59-dev-152-cf6e263,Baubles@1.0.1.10,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,Scenter@1.7.10-3.2.1,WailaHarvestability@1.1.6,NEIAddons|AppEng@1.12.14.40,DynamicLights_thePlayer@1.1.4
+[06:47:28] [Netty IO #0/INFO]: Attempting connection with missing mods [kimagine, UraniumPlus] at CLIENT
+[06:47:28] [Server thread/INFO]: [Server thread] Server side modded connection established
+[06:47:28] [Server thread/INFO]: Atlas[/5.18.245.145:27273] logged in with entity id 352 at ([world] -235.07199948044783, 90.0, 321.0254886085681)
+[06:48:26] [Server thread/INFO]: Atlas lost connection: Disconnected
+[06:48:26] [Server thread/INFO]: Atlas left the game.
+[06:48:29] [User Authenticator #2/INFO]: UUID of player Atlas is 1d4a9c61-6828-3517-9704-a0518eccaaa5
+[06:48:30] [Netty IO #0/INFO]: Client protocol version 2
+[06:48:30] [Netty IO #0/INFO]: Client attempting to join with 37 mods : DynamicLights_dropItems@1.0.8,VeinMinerModSupport@0.36.0_1.7.10-28a7f13,NotEnoughItems@1.0.5.120,DynamicLights_entityClasses@1.0.1,Waila@1.5.10,yarr_cutemobmodels@1.0.9,neiintegration@1.1.1,DynamicLights_onFire@1.0.4,FastCraft@1.25,NEIAddons@1.12.14.40,Forge@10.13.4.1614,NEIAddons|Botany@1.12.14.40,DynamicLights_otherPlayers@1.0.8,VeinMiner@0.36.0_1.7.10-28a7f13,DynamicLights_mobEquipment@1.0.8,DynamicLights@1.3.8,DynamicLights_floodLights@1.0.2,CodeChickenCore@1.0.7.47,MouseTweaks@2.4.4,NEIAddons|Developer@1.12.14.40,DynamicLights_flameArrows@1.0.0,mod_RadarBro@v1.9.9.9.9.9,bspkrsCore@6.15,mcp@9.05,craftguide@1.7.1.0,DynamicLights_creepers@1.0.4,InputFix@1.7.10-v5,FML@7.10.99.99,NEIAddons|Forestry@1.12.14.40,inventorytweaks@1.59-dev-152-cf6e263,Baubles@1.0.1.10,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,Scenter@1.7.10-3.2.1,WailaHarvestability@1.1.6,NEIAddons|AppEng@1.12.14.40,DynamicLights_thePlayer@1.1.4
+[06:48:30] [Netty IO #0/INFO]: Attempting connection with missing mods [kimagine, UraniumPlus] at CLIENT
+[06:48:30] [Server thread/INFO]: [Server thread] Server side modded connection established
+[06:48:30] [Server thread/INFO]: Atlas[/5.18.245.145:27416] logged in with entity id 560 at ([world] -237.49069128207555, 90.0, 324.8573502717976)
+[06:48:41] [Server thread/INFO]: Atlas fell from a high place
+[06:48:56] [Server thread/INFO]: Atlas lost connection: Disconnected
+[06:48:57] [Server thread/INFO]: Atlas left the game.
+[06:48:59] [User Authenticator #3/INFO]: UUID of player Atlas is 1d4a9c61-6828-3517-9704-a0518eccaaa5
+[06:48:59] [Netty IO #0/INFO]: Client protocol version 2
+[06:48:59] [Netty IO #0/INFO]: Client attempting to join with 37 mods : DynamicLights_dropItems@1.0.8,VeinMinerModSupport@0.36.0_1.7.10-28a7f13,NotEnoughItems@1.0.5.120,DynamicLights_entityClasses@1.0.1,Waila@1.5.10,yarr_cutemobmodels@1.0.9,neiintegration@1.1.1,DynamicLights_onFire@1.0.4,FastCraft@1.25,NEIAddons@1.12.14.40,Forge@10.13.4.1614,NEIAddons|Botany@1.12.14.40,DynamicLights_otherPlayers@1.0.8,VeinMiner@0.36.0_1.7.10-28a7f13,DynamicLights_mobEquipment@1.0.8,DynamicLights@1.3.8,DynamicLights_floodLights@1.0.2,CodeChickenCore@1.0.7.47,MouseTweaks@2.4.4,NEIAddons|Developer@1.12.14.40,DynamicLights_flameArrows@1.0.0,mod_RadarBro@v1.9.9.9.9.9,bspkrsCore@6.15,mcp@9.05,craftguide@1.7.1.0,DynamicLights_creepers@1.0.4,InputFix@1.7.10-v5,FML@7.10.99.99,NEIAddons|Forestry@1.12.14.40,inventorytweaks@1.59-dev-152-cf6e263,Baubles@1.0.1.10,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,Scenter@1.7.10-3.2.1,WailaHarvestability@1.1.6,NEIAddons|AppEng@1.12.14.40,DynamicLights_thePlayer@1.1.4
+[06:48:59] [Netty IO #0/INFO]: Attempting connection with missing mods [kimagine, UraniumPlus] at CLIENT
+[06:48:59] [Server thread/INFO]: [Server thread] Server side modded connection established
+[06:48:59] [Server thread/INFO]: Atlas[/5.18.245.145:27443] logged in with entity id 1081 at ([world] -190.67242885615616, 70.0, 227.98938054815778)
+[06:49:41] [Server thread/INFO]: Atlas issued server command: /home
+[06:52:17] [Server thread/INFO]: Atlas issued server command: /gamemode CREATIVE Atlas
+[06:53:15] [Server thread/INFO]: Atlas issued server command: /give Atlas 323 16 0
+[06:55:19] [Server thread/INFO]: Atlas issued server command: /give Atlas 326 1 0
+[06:57:37] [Server thread/INFO]: Atlas issued server command: /time set 288000
+[06:57:43] [Server thread/INFO]: Atlas issued server command: /toggledownfall
+[06:57:43] [Server thread/INFO]: Atlas: Toggling downfall off for world 'world'[m
+[06:57:46] [Server thread/INFO]: Atlas issued server command: /toggledownfall
+[06:57:46] [Server thread/INFO]: Atlas: Toggling downfall on for world 'world'[m
+[06:57:51] [Server thread/INFO]: Atlas issued server command: /toggledownfall
+[06:57:51] [Server thread/INFO]: Atlas: Toggling downfall off for world 'world'[m
+[06:57:59] [Server thread/INFO]: Atlas issued server command: /toggledownfall
+[06:57:59] [Server thread/INFO]: Atlas: Toggling downfall on for world 'world'[m
+[06:59:26] [User Authenticator #4/INFO]: UUID of player Atlas is 1d4a9c61-6828-3517-9704-a0518eccaaa5
+[06:59:26] [Server thread/INFO]: Atlas lost connection: You logged in from another location
+[06:59:26] [Server thread/INFO]: Atlas left the game.
+[06:59:27] [Netty IO #0/INFO]: Client protocol version 2
+[06:59:27] [Netty IO #0/INFO]: Client attempting to join with 36 mods : DynamicLights_dropItems@1.0.8,VeinMinerModSupport@0.36.0_1.7.10-28a7f13,NotEnoughItems@1.0.5.120,DynamicLights_entityClasses@1.0.1,Waila@1.5.10,yarr_cutemobmodels@1.0.9,neiintegration@1.1.1,DynamicLights_onFire@1.0.4,FastCraft@1.25,NEIAddons@1.12.14.40,Forge@10.13.4.1614,NEIAddons|Botany@1.12.14.40,DynamicLights_otherPlayers@1.0.8,VeinMiner@0.36.0_1.7.10-28a7f13,DynamicLights_mobEquipment@1.0.8,DynamicLights@1.3.8,DynamicLights_floodLights@1.0.2,CodeChickenCore@1.0.7.47,MouseTweaks@2.4.4,NEIAddons|Developer@1.12.14.40,DynamicLights_flameArrows@1.0.0,bspkrsCore@6.15,mcp@9.05,craftguide@1.7.1.0,DynamicLights_creepers@1.0.4,InputFix@1.7.10-v5,FML@7.10.99.99,NEIAddons|Forestry@1.12.14.40,inventorytweaks@1.59-dev-152-cf6e263,Baubles@1.0.1.10,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,Scenter@1.7.10-3.2.1,WailaHarvestability@1.1.6,NEIAddons|AppEng@1.12.14.40,DynamicLights_thePlayer@1.1.4
+[06:59:27] [Netty IO #0/INFO]: Attempting connection with missing mods [kimagine, UraniumPlus] at CLIENT
+[06:59:28] [Server thread/INFO]: [Server thread] Server side modded connection established
+[06:59:28] [Server thread/INFO]: Atlas[/39.75.184.31:50426] logged in with entity id 3034 at ([world] -241.64647740759133, 96.1116330269739, 311.9713497306365)
+[07:00:10] [User Authenticator #5/INFO]: UUID of player Atlas is 1d4a9c61-6828-3517-9704-a0518eccaaa5
+[07:00:10] [Server thread/INFO]: Atlas lost connection: You logged in from another location
+[07:00:10] [Server thread/INFO]: Atlas left the game.
+[07:00:23] [User Authenticator #6/INFO]: UUID of player Atlas is 1d4a9c61-6828-3517-9704-a0518eccaaa5
+[07:00:24] [Netty IO #0/INFO]: Client protocol version 2
+[07:00:24] [Netty IO #0/INFO]: Client attempting to join with 37 mods : DynamicLights_dropItems@1.0.8,VeinMinerModSupport@0.36.0_1.7.10-28a7f13,NotEnoughItems@1.0.5.120,DynamicLights_entityClasses@1.0.1,Waila@1.5.10,yarr_cutemobmodels@1.0.9,neiintegration@1.1.1,DynamicLights_onFire@1.0.4,FastCraft@1.25,NEIAddons@1.12.14.40,Forge@10.13.4.1614,NEIAddons|Botany@1.12.14.40,DynamicLights_otherPlayers@1.0.8,VeinMiner@0.36.0_1.7.10-28a7f13,DynamicLights_mobEquipment@1.0.8,DynamicLights@1.3.8,DynamicLights_floodLights@1.0.2,CodeChickenCore@1.0.7.47,MouseTweaks@2.4.4,NEIAddons|Developer@1.12.14.40,DynamicLights_flameArrows@1.0.0,mod_RadarBro@v1.9.9.9.9.9,bspkrsCore@6.15,mcp@9.05,craftguide@1.7.1.0,DynamicLights_creepers@1.0.4,InputFix@1.7.10-v5,FML@7.10.99.99,NEIAddons|Forestry@1.12.14.40,inventorytweaks@1.59-dev-152-cf6e263,Baubles@1.0.1.10,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,Scenter@1.7.10-3.2.1,WailaHarvestability@1.1.6,NEIAddons|AppEng@1.12.14.40,DynamicLights_thePlayer@1.1.4
+[07:00:24] [Netty IO #0/INFO]: Attempting connection with missing mods [kimagine, UraniumPlus] at CLIENT
+[07:00:24] [Server thread/INFO]: [Server thread] Server side modded connection established
+[07:00:24] [Server thread/INFO]: Atlas[/5.18.245.145:27276] logged in with entity id 3172 at ([world] -240.1795760432493, 93.87064006855084, 323.23168523594336)
+[07:00:40] [Server thread/INFO]: Atlas lost connection: Timed out
+[07:01:05] [Server thread/INFO]: Atlas lost connection: Disconnected
+[07:01:05] [Server thread/INFO]: Atlas left the game.
+[07:01:21] [User Authenticator #7/INFO]: UUID of player Atlas is 1d4a9c61-6828-3517-9704-a0518eccaaa5
+[07:01:21] [Netty IO #0/INFO]: Client protocol version 2
+[07:01:21] [Netty IO #0/INFO]: Client attempting to join with 37 mods : DynamicLights_dropItems@1.0.8,VeinMinerModSupport@0.36.0_1.7.10-28a7f13,NotEnoughItems@1.0.5.120,DynamicLights_entityClasses@1.0.1,Waila@1.5.10,yarr_cutemobmodels@1.0.9,neiintegration@1.1.1,DynamicLights_onFire@1.0.4,FastCraft@1.25,NEIAddons@1.12.14.40,Forge@10.13.4.1614,NEIAddons|Botany@1.12.14.40,DynamicLights_otherPlayers@1.0.8,VeinMiner@0.36.0_1.7.10-28a7f13,DynamicLights_mobEquipment@1.0.8,DynamicLights@1.3.8,DynamicLights_floodLights@1.0.2,CodeChickenCore@1.0.7.47,MouseTweaks@2.4.4,NEIAddons|Developer@1.12.14.40,DynamicLights_flameArrows@1.0.0,mod_RadarBro@v1.9.9.9.9.9,bspkrsCore@6.15,mcp@9.05,craftguide@1.7.1.0,DynamicLights_creepers@1.0.4,InputFix@1.7.10-v5,FML@7.10.99.99,NEIAddons|Forestry@1.12.14.40,inventorytweaks@1.59-dev-152-cf6e263,Baubles@1.0.1.10,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,Scenter@1.7.10-3.2.1,WailaHarvestability@1.1.6,NEIAddons|AppEng@1.12.14.40,DynamicLights_thePlayer@1.1.4
+[07:01:21] [Netty IO #0/INFO]: Attempting connection with missing mods [kimagine, UraniumPlus] at CLIENT
+[07:01:21] [Server thread/INFO]: [Server thread] Server side modded connection established
+[07:01:21] [Server thread/INFO]: Atlas[/5.18.245.145:27352] logged in with entity id 3492 at ([world] -231.27293438683506, 69.88950254197836, 347.8119237208881)
+[07:01:28] [User Authenticator #8/INFO]: UUID of player Atlas is 1d4a9c61-6828-3517-9704-a0518eccaaa5
+[07:01:28] [Server thread/INFO]: Atlas lost connection: You logged in from another location
+[07:01:28] [Server thread/INFO]: Atlas left the game.
+[07:01:30] [Netty IO #1/INFO]: Client protocol version 2
+[07:01:30] [Netty IO #1/INFO]: Client attempting to join with 36 mods : DynamicLights_dropItems@1.0.8,VeinMinerModSupport@0.36.0_1.7.10-28a7f13,NotEnoughItems@1.0.5.120,DynamicLights_entityClasses@1.0.1,Waila@1.5.10,yarr_cutemobmodels@1.0.9,neiintegration@1.1.1,DynamicLights_onFire@1.0.4,FastCraft@1.25,NEIAddons@1.12.14.40,Forge@10.13.4.1614,NEIAddons|Botany@1.12.14.40,DynamicLights_otherPlayers@1.0.8,VeinMiner@0.36.0_1.7.10-28a7f13,DynamicLights_mobEquipment@1.0.8,DynamicLights@1.3.8,DynamicLights_floodLights@1.0.2,CodeChickenCore@1.0.7.47,MouseTweaks@2.4.4,NEIAddons|Developer@1.12.14.40,DynamicLights_flameArrows@1.0.0,bspkrsCore@6.15,mcp@9.05,craftguide@1.7.1.0,DynamicLights_creepers@1.0.4,InputFix@1.7.10-v5,FML@7.10.99.99,NEIAddons|Forestry@1.12.14.40,inventorytweaks@1.59-dev-152-cf6e263,Baubles@1.0.1.10,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,Scenter@1.7.10-3.2.1,WailaHarvestability@1.1.6,NEIAddons|AppEng@1.12.14.40,DynamicLights_thePlayer@1.1.4
+[07:01:30] [Netty IO #1/INFO]: Attempting connection with missing mods [kimagine, UraniumPlus] at CLIENT
+[07:01:31] [Server thread/INFO]: [Server thread] Server side modded connection established
+[07:01:31] [Server thread/INFO]: Atlas[/39.75.184.31:50523] logged in with entity id 3653 at ([world] -267.11297563265805, 81.12062080071676, 318.22459318680916)
+[07:01:34] [User Authenticator #9/INFO]: UUID of player Atlas is 1d4a9c61-6828-3517-9704-a0518eccaaa5
+[07:01:35] [Server thread/INFO]: Atlas lost connection: You logged in from another location
+[07:01:35] [Server thread/INFO]: Atlas left the game.
+[07:01:35] [Netty IO #1/INFO]: Client protocol version 2
+[07:01:35] [Netty IO #1/INFO]: Client attempting to join with 37 mods : DynamicLights_dropItems@1.0.8,VeinMinerModSupport@0.36.0_1.7.10-28a7f13,NotEnoughItems@1.0.5.120,DynamicLights_entityClasses@1.0.1,Waila@1.5.10,yarr_cutemobmodels@1.0.9,neiintegration@1.1.1,DynamicLights_onFire@1.0.4,FastCraft@1.25,NEIAddons@1.12.14.40,Forge@10.13.4.1614,NEIAddons|Botany@1.12.14.40,DynamicLights_otherPlayers@1.0.8,VeinMiner@0.36.0_1.7.10-28a7f13,DynamicLights_mobEquipment@1.0.8,DynamicLights@1.3.8,DynamicLights_floodLights@1.0.2,CodeChickenCore@1.0.7.47,MouseTweaks@2.4.4,NEIAddons|Developer@1.12.14.40,DynamicLights_flameArrows@1.0.0,mod_RadarBro@v1.9.9.9.9.9,bspkrsCore@6.15,mcp@9.05,craftguide@1.7.1.0,DynamicLights_creepers@1.0.4,InputFix@1.7.10-v5,FML@7.10.99.99,NEIAddons|Forestry@1.12.14.40,inventorytweaks@1.59-dev-152-cf6e263,Baubles@1.0.1.10,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,Scenter@1.7.10-3.2.1,WailaHarvestability@1.1.6,NEIAddons|AppEng@1.12.14.40,DynamicLights_thePlayer@1.1.4
+[07:01:35] [Netty IO #1/INFO]: Attempting connection with missing mods [kimagine, UraniumPlus] at CLIENT
+[07:01:35] [Server thread/INFO]: [Server thread] Server side modded connection established
+[07:01:35] [Server thread/INFO]: Atlas[/5.18.245.145:27368] logged in with entity id 3759 at ([world] -267.11297563265805, 81.12062080071676, 318.22459318680916)
+[07:06:58] [User Authenticator #10/INFO]: UUID of player CORE is 873e5e37-89c2-35b1-ac6e-3e8041dfd5dd
+[07:07:00] [Netty IO #0/INFO]: Client protocol version 2
+[07:07:00] [Netty IO #0/INFO]: Client attempting to join with 36 mods : DynamicLights_dropItems@1.0.8,VeinMinerModSupport@0.36.0_1.7.10-28a7f13,NotEnoughItems@1.0.5.120,DynamicLights_entityClasses@1.0.1,Waila@1.5.10,yarr_cutemobmodels@1.0.9,neiintegration@1.1.1,DynamicLights_onFire@1.0.4,FastCraft@1.25,NEIAddons@1.12.14.40,Forge@10.13.4.1614,NEIAddons|Botany@1.12.14.40,DynamicLights_otherPlayers@1.0.8,VeinMiner@0.36.0_1.7.10-28a7f13,DynamicLights_mobEquipment@1.0.8,DynamicLights@1.3.8,DynamicLights_floodLights@1.0.2,CodeChickenCore@1.0.7.47,MouseTweaks@2.4.4,NEIAddons|Developer@1.12.14.40,DynamicLights_flameArrows@1.0.0,bspkrsCore@6.15,mcp@9.05,craftguide@1.7.1.0,DynamicLights_creepers@1.0.4,InputFix@1.7.10-v5,FML@7.10.99.99,NEIAddons|Forestry@1.12.14.40,inventorytweaks@1.59-dev-152-cf6e263,Baubles@1.0.1.10,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,Scenter@1.7.10-3.2.1,WailaHarvestability@1.1.6,NEIAddons|AppEng@1.12.14.40,DynamicLights_thePlayer@1.1.4
+[07:07:00] [Netty IO #0/INFO]: Attempting connection with missing mods [kimagine, UraniumPlus] at CLIENT
+[07:07:00] [Server thread/INFO]: [Server thread] Server side modded connection established
+[07:07:00] [Server thread/INFO]: CORE[/39.75.184.31:21662] logged in with entity id 5212 at ([world] -202.5, 73.0, 252.5)
+[07:07:01] [pool-9-thread-1/INFO]: Creating empty config: /home/minecraft/plugins/Essentials/userdata/873e5e37-89c2-35b1-ac6e-3e8041dfd5dd.yml
+[07:07:28] [Server thread/INFO]: Atlas issued server command: /give Atlas 384 64 0
+[07:07:30] [Server thread/INFO]: Atlas issued server command: /give Atlas 384 64 0
+[07:07:51] [Server thread/INFO]: Atlas issued server command: /give Atlas 373 1 16385
+[07:08:00] [Server thread/INFO]: Atlas issued server command: /time set 312000
+[07:08:01] [Server thread/INFO]: Atlas issued server command: /toggledownfall
+[07:08:01] [Server thread/INFO]: Atlas: Toggling downfall off for world 'world'[m
+[07:12:22] [Server thread/INFO]: CORE lost connection: Disconnected
+[07:12:22] [Server thread/INFO]: CORE left the game.
+[07:12:42] [User Authenticator #11/INFO]: UUID of player CORE is 873e5e37-89c2-35b1-ac6e-3e8041dfd5dd
+[07:12:43] [Netty IO #0/INFO]: Client protocol version 2
+[07:12:43] [Netty IO #0/INFO]: Client attempting to join with 36 mods : DynamicLights_dropItems@1.0.8,VeinMinerModSupport@0.36.0_1.7.10-28a7f13,NotEnoughItems@1.0.5.120,DynamicLights_entityClasses@1.0.1,Waila@1.5.10,yarr_cutemobmodels@1.0.9,neiintegration@1.1.1,DynamicLights_onFire@1.0.4,FastCraft@1.25,NEIAddons@1.12.14.40,Forge@10.13.4.1614,NEIAddons|Botany@1.12.14.40,DynamicLights_otherPlayers@1.0.8,VeinMiner@0.36.0_1.7.10-28a7f13,DynamicLights_mobEquipment@1.0.8,DynamicLights@1.3.8,DynamicLights_floodLights@1.0.2,CodeChickenCore@1.0.7.47,MouseTweaks@2.4.4,NEIAddons|Developer@1.12.14.40,DynamicLights_flameArrows@1.0.0,bspkrsCore@6.15,mcp@9.05,craftguide@1.7.1.0,DynamicLights_creepers@1.0.4,InputFix@1.7.10-v5,FML@7.10.99.99,NEIAddons|Forestry@1.12.14.40,inventorytweaks@1.59-dev-152-cf6e263,Baubles@1.0.1.10,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,Scenter@1.7.10-3.2.1,WailaHarvestability@1.1.6,NEIAddons|AppEng@1.12.14.40,DynamicLights_thePlayer@1.1.4
+[07:12:43] [Netty IO #0/INFO]: Attempting connection with missing mods [kimagine, UraniumPlus] at CLIENT
+[07:12:45] [Server thread/INFO]: [Server thread] Server side modded connection established
+[07:12:45] [Server thread/INFO]: CORE[/148.153.82.27:51158] logged in with entity id 6838 at ([world] -204.59284293424992, 74.0, 251.17249573284985)
+[07:13:27] [Server thread/INFO]: CORE lost connection: Disconnected
+[07:13:27] [Server thread/INFO]: CORE left the game.
+[07:13:33] [User Authenticator #12/INFO]: UUID of player CORE is 873e5e37-89c2-35b1-ac6e-3e8041dfd5dd
+[07:13:35] [Netty IO #0/INFO]: Client protocol version 2
+[07:13:35] [Netty IO #0/INFO]: Client attempting to join with 36 mods : DynamicLights_dropItems@1.0.8,VeinMinerModSupport@0.36.0_1.7.10-28a7f13,NotEnoughItems@1.0.5.120,DynamicLights_entityClasses@1.0.1,Waila@1.5.10,yarr_cutemobmodels@1.0.9,neiintegration@1.1.1,DynamicLights_onFire@1.0.4,FastCraft@1.25,NEIAddons@1.12.14.40,Forge@10.13.4.1614,NEIAddons|Botany@1.12.14.40,DynamicLights_otherPlayers@1.0.8,VeinMiner@0.36.0_1.7.10-28a7f13,DynamicLights_mobEquipment@1.0.8,DynamicLights@1.3.8,DynamicLights_floodLights@1.0.2,CodeChickenCore@1.0.7.47,MouseTweaks@2.4.4,NEIAddons|Developer@1.12.14.40,DynamicLights_flameArrows@1.0.0,bspkrsCore@6.15,mcp@9.05,craftguide@1.7.1.0,DynamicLights_creepers@1.0.4,InputFix@1.7.10-v5,FML@7.10.99.99,NEIAddons|Forestry@1.12.14.40,inventorytweaks@1.59-dev-152-cf6e263,Baubles@1.0.1.10,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,Scenter@1.7.10-3.2.1,WailaHarvestability@1.1.6,NEIAddons|AppEng@1.12.14.40,DynamicLights_thePlayer@1.1.4
+[07:13:35] [Netty IO #0/INFO]: Attempting connection with missing mods [kimagine, UraniumPlus] at CLIENT
+[07:13:35] [Server thread/INFO]: [Server thread] Server side modded connection established
+[07:13:35] [Server thread/INFO]: CORE[/148.153.82.27:51174] logged in with entity id 7040 at ([world] -204.59284293424992, 74.0, 251.17249573284985)
+[07:13:53] [Server thread/INFO]: Atlas issued server command: /give Atlas 332 16 0
+[07:13:55] [Server thread/INFO]: Atlas issued server command: /give Atlas 332 16 0
+[07:14:57] [Server thread/INFO]: Atlas issued server command: /gamemode ADVENTURE Atlas
+[07:14:57] [Server thread/INFO]: Atlas issued server command: /gamemode SURVIVAL Atlas
+[07:15:34] [Server thread/INFO]: CORE was slain by Atlas
+[07:16:32] [Server thread/INFO]: CORE issued server command: /gamemode 1
+[07:16:32] [Server thread/INFO]: §cCORE §4was denied access to command.
+[07:16:39] [Server thread/INFO]: CORE has just earned the achievement [Taking Inventory]
+[07:16:46] [Server thread/INFO]: Atlas issued server command: /time set 348000
+[07:16:48] [Server thread/INFO]: Atlas issued server command: /time set 354000
+[07:16:50] [Server thread/INFO]: CORE issued server command: /back
+[07:17:24] [Server thread/INFO]: Atlas issued server command: /time set 342000
+[07:18:17] [Server thread/INFO]: CORE lost connection: Timed out
+[07:18:17] [Server thread/INFO]: CORE left the game.
+[07:18:32] [Server thread/INFO]: Atlas hit the ground too hard
+[07:18:37] [Server thread/INFO]: Atlas issued server command: /gamemode CREATIVE Atlas
+[07:18:58] [User Authenticator #13/INFO]: UUID of player CORE is 873e5e37-89c2-35b1-ac6e-3e8041dfd5dd
+[07:18:59] [Netty IO #1/INFO]: Client protocol version 2
+[07:18:59] [Netty IO #1/INFO]: Client attempting to join with 36 mods : DynamicLights_dropItems@1.0.8,VeinMinerModSupport@0.36.0_1.7.10-28a7f13,NotEnoughItems@1.0.5.120,DynamicLights_entityClasses@1.0.1,Waila@1.5.10,yarr_cutemobmodels@1.0.9,neiintegration@1.1.1,DynamicLights_onFire@1.0.4,FastCraft@1.25,NEIAddons@1.12.14.40,Forge@10.13.4.1614,NEIAddons|Botany@1.12.14.40,DynamicLights_otherPlayers@1.0.8,VeinMiner@0.36.0_1.7.10-28a7f13,DynamicLights_mobEquipment@1.0.8,DynamicLights@1.3.8,DynamicLights_floodLights@1.0.2,CodeChickenCore@1.0.7.47,MouseTweaks@2.4.4,NEIAddons|Developer@1.12.14.40,DynamicLights_flameArrows@1.0.0,bspkrsCore@6.15,mcp@9.05,craftguide@1.7.1.0,DynamicLights_creepers@1.0.4,InputFix@1.7.10-v5,FML@7.10.99.99,NEIAddons|Forestry@1.12.14.40,inventorytweaks@1.59-dev-152-cf6e263,Baubles@1.0.1.10,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,Scenter@1.7.10-3.2.1,WailaHarvestability@1.1.6,NEIAddons|AppEng@1.12.14.40,DynamicLights_thePlayer@1.1.4
+[07:18:59] [Netty IO #1/INFO]: Attempting connection with missing mods [kimagine, UraniumPlus] at CLIENT
+[07:19:00] [Server thread/INFO]: [Server thread] Server side modded connection established
+[07:19:00] [Server thread/INFO]: CORE[/47.88.78.20:10012] logged in with entity id 8856 at ([world] -204.35953749603505, 71.0, 243.7596996484856)
+[07:19:57] [Server thread/INFO]: Atlas issued server command: /gamemode ADVENTURE Atlas
+[07:19:57] [Server thread/INFO]: Atlas issued server command: /gamemode SURVIVAL Atlas
+[07:20:21] [Server thread/INFO]: CORE has just earned the achievement [Getting Wood]
+[07:22:00] [Server thread/INFO]: Atlas issued server command: /home
+[07:22:12] [Server thread/INFO]: Atlas issued server command: /tp core atlas
+[07:22:48] [Server thread/INFO]: Atlas fell from a high place
+[07:22:55] [Server thread/INFO]: Atlas issued server command: /back
+[07:23:01] [Server thread/INFO]: Atlas issued server command: /gamemode CREATIVE Atlas
+[07:23:47] [Server thread/INFO]: Atlas lost connection: Disconnected
+[07:23:47] [Server thread/INFO]: Atlas left the game.
+[07:23:51] [User Authenticator #14/INFO]: UUID of player Atlas is 1d4a9c61-6828-3517-9704-a0518eccaaa5
+[07:23:51] [Netty IO #1/INFO]: Client protocol version 2
+[07:23:51] [Netty IO #1/INFO]: Client attempting to join with 37 mods : DynamicLights_dropItems@1.0.8,VeinMinerModSupport@0.36.0_1.7.10-28a7f13,NotEnoughItems@1.0.5.120,DynamicLights_entityClasses@1.0.1,Waila@1.5.10,yarr_cutemobmodels@1.0.9,neiintegration@1.1.1,DynamicLights_onFire@1.0.4,FastCraft@1.25,NEIAddons@1.12.14.40,Forge@10.13.4.1614,NEIAddons|Botany@1.12.14.40,DynamicLights_otherPlayers@1.0.8,VeinMiner@0.36.0_1.7.10-28a7f13,DynamicLights_mobEquipment@1.0.8,DynamicLights@1.3.8,DynamicLights_floodLights@1.0.2,CodeChickenCore@1.0.7.47,MouseTweaks@2.4.4,NEIAddons|Developer@1.12.14.40,DynamicLights_flameArrows@1.0.0,mod_RadarBro@v1.9.9.9.9.9,bspkrsCore@6.15,mcp@9.05,craftguide@1.7.1.0,DynamicLights_creepers@1.0.4,InputFix@1.7.10-v5,FML@7.10.99.99,NEIAddons|Forestry@1.12.14.40,inventorytweaks@1.59-dev-152-cf6e263,Baubles@1.0.1.10,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,Scenter@1.7.10-3.2.1,WailaHarvestability@1.1.6,NEIAddons|AppEng@1.12.14.40,DynamicLights_thePlayer@1.1.4
+[07:23:51] [Netty IO #1/INFO]: Attempting connection with missing mods [kimagine, UraniumPlus] at CLIENT
+[07:23:51] [Server thread/INFO]: [Server thread] Server side modded connection established
+[07:23:51] [Server thread/INFO]: Atlas[/5.18.245.145:26968] logged in with entity id 10541 at ([DIM-1] -23.527175906358348, 99.88753632695887, 38.170909677052705)
+[07:24:50] [Server thread/INFO]: Atlas issued server command: /time set 366000
+[07:30:11] [Server thread/INFO]: Atlas issued server command: /tp core atlas
+[07:31:12] [Server thread/INFO]: Atlas issued server command: /gamemode ADVENTURE Atlas
+[07:31:13] [Server thread/INFO]: Atlas issued server command: /gamemode SURVIVAL Atlas
+[07:31:48] [Server thread/INFO]: Atlas tried to swim in lava
+[07:31:51] [Server thread/INFO]: Atlas issued server command: /gamemode CREATIVE Atlas
+[07:31:54] [Server thread/INFO]: Atlas issued server command: /back
+[07:32:43] [Server thread/INFO]: Atlas issued server command: /tp atlas core
+[07:33:07] [Server thread/INFO]: CORE has just earned the achievement [Benchmarking]
+[07:33:29] [Server thread/INFO]: CORE has just earned the achievement [Time to Strike!]
+[07:33:36] [Server thread/INFO]: CORE has just earned the achievement [Time to Mine!]
+[07:33:36] [Server thread/INFO]: CORE has just earned the achievement [Getting an Upgrade]
+[07:33:58] [Server thread/INFO]: Atlas issued server command: /give Atlas 327 1 0
+[07:36:05] [Server thread/INFO]: Atlas issued server command: /home
+[07:36:18] [Server thread/INFO]: Atlas issued server command: /time set 390000
+[07:36:23] [Server thread/INFO]: Atlas issued server command: /tp core atlas
+[07:38:35] [Server thread/INFO]: Atlas issued server command: /give Atlas 49 64 0
+[07:38:38] [Server thread/INFO]: Atlas issued server command: /give Atlas 49 64 0
+[07:40:30] [Server thread/INFO]: Atlas issued server command: /tp core atlas
+[07:40:44] [Server thread/WARN]: CORE moved too quickly! 15.956576888186873,-4.0,-5.708826866043637 (15.956576888186873, 4.0, 5.708826866043637)
+[07:40:56] [Server thread/INFO]: Atlas issued server command: /tp core atlas
+[07:41:12] [Server thread/INFO]: Atlas issued server command: /tp core atlas
+[07:41:21] [Server thread/INFO]: Atlas issued server command: /tp core atlas
+[07:41:27] [Server thread/INFO]: CORE fell from a high place
+[07:41:35] [Server thread/WARN]: CORE moved wrongly!
+[07:41:40] [Server thread/INFO]: CORE issued server command: /back
+[07:41:49] [Server thread/INFO]: Atlas issued server command: /time set 414000
+[07:41:49] [Server thread/INFO]: CORE issued server command: /back
+[07:42:01] [Server thread/INFO]: CORE issued server command: /back
+[07:42:07] [Server thread/INFO]: CORE issued server command: /back
+[07:42:13] [Server thread/WARN]: CORE moved too quickly! -105.0,-14.0,345.0 (105.0, 14.0, 345.0)
+[07:42:29] [Server thread/INFO]: CORE issued server command: /back
+[07:42:41] [Server thread/INFO]: CORE issued server command: /give CORE 35 64 5
+[07:42:41] [Server thread/INFO]: §cCORE §4was denied access to command.
+[07:42:44] [Server thread/INFO]: CORE issued server command: /give CORE 42 64 0
+[07:42:44] [Server thread/INFO]: §cCORE §4was denied access to command.
+[07:42:47] [Server thread/INFO]: Atlas issued server command: /give Atlas 276 1 0
+[07:42:48] [Server thread/INFO]: Atlas issued server command: /give Atlas 277 1 0
+[07:42:49] [Server thread/INFO]: Atlas issued server command: /give Atlas 278 1 0
+[07:42:54] [Server thread/INFO]: Atlas issued server command: /give Atlas 276 1 0
+[07:42:57] [Server thread/INFO]: Atlas issued server command: /give Atlas 278 1 0
+[07:43:10] [Server thread/INFO]: Atlas issued server command: /give Atlas 279 1 0
+[07:43:47] [Server thread/INFO]: Atlas issued server command: /tp 1000 80 56165156
+[07:43:50] [Server thread/INFO]: Atlas issued server command: /tp 1000 80 561651
+[07:45:26] [Server thread/INFO]: Atlas issued server command: /tp core atlas
+[07:45:38] [Server thread/WARN]: CORE moved too quickly! 8.384906444471312,-2.249187078744683,-18.374521392048337 (8.384906444471312, 2.249187078744683, 18.374521392048337)
+[07:47:00] [Server thread/INFO]: Atlas issued server command: /time set 432000
+[07:47:02] [Server thread/INFO]: Atlas issued server command: /time set 462000
+[07:47:09] [Server thread/INFO]: CORE lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[07:47:09] [Server thread/INFO]: CORE left the game.
+[07:47:37] [User Authenticator #15/INFO]: UUID of player CORE is 873e5e37-89c2-35b1-ac6e-3e8041dfd5dd
+[07:47:38] [Netty IO #0/INFO]: Client protocol version 2
+[07:47:38] [Netty IO #0/INFO]: Client attempting to join with 36 mods : DynamicLights_dropItems@1.0.8,VeinMinerModSupport@0.36.0_1.7.10-28a7f13,NotEnoughItems@1.0.5.120,DynamicLights_entityClasses@1.0.1,Waila@1.5.10,yarr_cutemobmodels@1.0.9,neiintegration@1.1.1,DynamicLights_onFire@1.0.4,FastCraft@1.25,NEIAddons@1.12.14.40,Forge@10.13.4.1614,NEIAddons|Botany@1.12.14.40,DynamicLights_otherPlayers@1.0.8,VeinMiner@0.36.0_1.7.10-28a7f13,DynamicLights_mobEquipment@1.0.8,DynamicLights@1.3.8,DynamicLights_floodLights@1.0.2,CodeChickenCore@1.0.7.47,MouseTweaks@2.4.4,NEIAddons|Developer@1.12.14.40,DynamicLights_flameArrows@1.0.0,bspkrsCore@6.15,mcp@9.05,craftguide@1.7.1.0,DynamicLights_creepers@1.0.4,InputFix@1.7.10-v5,FML@7.10.99.99,NEIAddons|Forestry@1.12.14.40,inventorytweaks@1.59-dev-152-cf6e263,Baubles@1.0.1.10,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,Scenter@1.7.10-3.2.1,WailaHarvestability@1.1.6,NEIAddons|AppEng@1.12.14.40,DynamicLights_thePlayer@1.1.4
+[07:47:38] [Netty IO #0/INFO]: Attempting connection with missing mods [kimagine, UraniumPlus] at CLIENT
+[07:47:38] [Server thread/INFO]: [Server thread] Server side modded connection established
+[07:47:38] [Server thread/INFO]: CORE[/148.153.82.27:51642] logged in with entity id 21054 at ([world] 825.4458093852162, 64.0, 561585.3906091544)
+[07:52:05] [Server thread/INFO]: Atlas issued server command: /time set 462000
+[07:52:19] [Server thread/INFO]: Atlas issued server command: /toggledownfall
+[07:52:19] [Server thread/INFO]: Atlas: Toggling downfall off for world 'world'[m
+[07:57:45] [Server thread/INFO]: Atlas issued server command: /time set 486000
+[08:00:38] [Server thread/INFO]: Atlas issued server command: /give Atlas 383 64 96
+[08:00:41] [Server thread/INFO]: Atlas issued server command: /give Atlas 383 64 96
+[08:01:32] [Server thread/INFO]: CORE has just earned the achievement [Cow Tipper]
+[08:01:45] [Server thread/INFO]: Atlas issued server command: /give Atlas 383 64 50
+[08:01:49] [Server thread/INFO]: Atlas issued server command: /give Atlas 383 64 55
+[08:02:01] [Server thread/INFO]: Atlas issued server command: /give Atlas 383 64 55
+[08:02:15] [Server thread/INFO]: CORE has just earned the achievement [Monster Hunter]
+[08:02:57] [Server thread/INFO]: Atlas issued server command: /time set 504000
+[08:02:58] [Server thread/INFO]: Atlas issued server command: /time set 534000
+[08:03:03] [Server thread/INFO]: CORE was slain by Slime
+[08:03:12] [Server thread/INFO]: CORE issued server command: /back
+[08:03:45] [Server thread/INFO]: Atlas issued server command: /give Atlas 355 1 0
+[08:04:02] [Server thread/INFO]: Atlas issued server command: /tp core atlas
+[08:04:07] [Server thread/INFO]: Atlas issued server command: /time set 546000
+[08:04:10] [Server thread/INFO]: Atlas issued server command: /time set 534000
+[08:04:16] [Server thread/INFO]: Atlas issued server command: /time set 570000
+[08:04:19] [Server thread/INFO]: Atlas issued server command: /time set 552000
+[08:04:22] [Server thread/INFO]: Atlas issued server command: /time set 582000
+[08:04:28] [Server thread/INFO]: CORE was slain by Atlas
+[08:04:37] [Server thread/INFO]: CORE issued server command: /back
+[08:04:40] [Server thread/INFO]: Atlas issued server command: /tp core atlas
+[08:04:52] [Server thread/INFO]: Atlas issued server command: /give Atlas 355 1 0
+[08:04:56] [Server thread/INFO]: Atlas issued server command: /time set 594000
+[08:05:05] [Server thread/INFO]: Atlas issued server command: /time set 606000
+[08:05:08] [Server thread/INFO]: CORE was slain by Atlas
+[08:05:16] [Server thread/INFO]: Atlas issued server command: /tp core atlas
+[08:05:18] [Server thread/INFO]: CORE issued server command: /back
+[08:05:22] [Server thread/INFO]: CORE issued server command: /back
+[08:05:43] [Server thread/INFO]: CORE issued server command: /sate home
+[08:05:56] [Server thread/INFO]: CORE issued server command: /satehome
+[08:06:10] [Server thread/INFO]: CORE issued server command: /sethome
+[08:06:18] [Server thread/INFO]: CORE was slain by Atlas
+[08:06:24] [Server thread/INFO]: CORE issued server command: /back
+[08:06:31] [Server thread/INFO]: CORE issued server command: /home
+[08:06:38] [Server thread/INFO]: CORE issued server command: /home
+[08:07:14] [Server thread/INFO]: Atlas issued server command: /give Atlas 278 1 0
+[08:07:16] [Server thread/INFO]: Atlas issued server command: /give Atlas 276 1 0
+[08:08:40] [Server thread/INFO]: CONSOLE: Opped SORE[m
+[08:10:47] [Server thread/INFO]: Atlas issued server command: /time set 606000
+[08:14:54] [Server thread/INFO]: CORE issued server command: /give CORE 23 64 0
+[08:14:54] [Server thread/INFO]: §cCORE §4was denied access to command.
+[08:14:56] [Server thread/INFO]: CORE issued server command: /give CORE 23 64 0
+[08:14:56] [Server thread/INFO]: §cCORE §4was denied access to command.
+[08:14:58] [Server thread/INFO]: CORE issued server command: /give CORE 397 64 1
+[08:14:58] [Server thread/INFO]: §cCORE §4was denied access to command.
+[08:15:00] [Server thread/INFO]: CORE issued server command: /give CORE 2267 1 0
+[08:15:00] [Server thread/INFO]: §cCORE §4was denied access to command.
+[08:15:10] [Server thread/INFO]: CORE lost connection: Disconnected
+[08:15:10] [Server thread/INFO]: CORE left the game.
+[08:15:14] [User Authenticator #16/INFO]: UUID of player CORE is 873e5e37-89c2-35b1-ac6e-3e8041dfd5dd
+[08:15:15] [Netty IO #0/INFO]: Client protocol version 2
+[08:15:15] [Netty IO #0/INFO]: Client attempting to join with 36 mods : DynamicLights_dropItems@1.0.8,VeinMinerModSupport@0.36.0_1.7.10-28a7f13,NotEnoughItems@1.0.5.120,DynamicLights_entityClasses@1.0.1,Waila@1.5.10,yarr_cutemobmodels@1.0.9,neiintegration@1.1.1,DynamicLights_onFire@1.0.4,FastCraft@1.25,NEIAddons@1.12.14.40,Forge@10.13.4.1614,NEIAddons|Botany@1.12.14.40,DynamicLights_otherPlayers@1.0.8,VeinMiner@0.36.0_1.7.10-28a7f13,DynamicLights_mobEquipment@1.0.8,DynamicLights@1.3.8,DynamicLights_floodLights@1.0.2,CodeChickenCore@1.0.7.47,MouseTweaks@2.4.4,NEIAddons|Developer@1.12.14.40,DynamicLights_flameArrows@1.0.0,bspkrsCore@6.15,mcp@9.05,craftguide@1.7.1.0,DynamicLights_creepers@1.0.4,InputFix@1.7.10-v5,FML@7.10.99.99,NEIAddons|Forestry@1.12.14.40,inventorytweaks@1.59-dev-152-cf6e263,Baubles@1.0.1.10,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,Scenter@1.7.10-3.2.1,WailaHarvestability@1.1.6,NEIAddons|AppEng@1.12.14.40,DynamicLights_thePlayer@1.1.4
+[08:15:15] [Netty IO #0/INFO]: Attempting connection with missing mods [kimagine, UraniumPlus] at CLIENT
+[08:15:15] [Server thread/INFO]: [Server thread] Server side modded connection established
+[08:15:15] [Server thread/INFO]: CORE[/148.153.82.27:52093] logged in with entity id 27895 at ([world] 666.8989852250512, 78.0, 561365.2526073969)
+[08:15:19] [Server thread/INFO]: CORE issued server command: /give CORE 2265 1 0
+[08:15:19] [Server thread/INFO]: §cCORE §4was denied access to command.
+[08:15:20] [Server thread/INFO]: CORE issued server command: /give CORE 2265 1 0
+[08:15:20] [Server thread/INFO]: §cCORE §4was denied access to command.
+[08:15:29] [Server thread/INFO]: CORE issued server command: /give CORE 373 1 8229
+[08:15:29] [Server thread/INFO]: §cCORE §4was denied access to command.
+[08:15:33] [Server thread/INFO]: CORE issued server command: /gamemode CREATIVE CORE
+[08:15:33] [Server thread/INFO]: §cCORE §4was denied access to command.
+[08:15:48] [Server thread/INFO]: CORE issued server command: /gamemode CREATIVE CORE
+[08:15:48] [Server thread/INFO]: §cCORE §4was denied access to command.
+[08:16:04] [Server thread/INFO]: CORE issued server command: /time set 642000
+[08:16:05] [Server thread/INFO]: CORE issued server command: /time set 636000
+[08:16:07] [Server thread/INFO]: CORE issued server command: /gamemode CREATIVE CORE
+[08:16:07] [Server thread/INFO]: §cCORE §4was denied access to command.
+[08:16:56] [Server thread/INFO]: CONSOLE: Opped CORE[m
+[08:17:02] [Server thread/INFO]: CORE issued server command: /time set 630000
+[08:17:06] [Server thread/INFO]: CORE issued server command: /give CORE 373 1 16393
+[08:17:12] [Server thread/INFO]: CORE issued server command: /gamemode CREATIVE CORE
+[08:19:00] [Netty IO #1/INFO]: [m<[0;31;22mAtlas[m> tp 46486564 80 6515561[m
+[08:20:34] [Server thread/INFO]: Atlas issued server command: /gamemode ADVENTURE Atlas
+[08:20:35] [Server thread/INFO]: Atlas issued server command: /gamemode SURVIVAL Atlas
+[08:20:41] [Server thread/INFO]: Atlas issued server command: /gamemode CREATIVE Atlas
+[08:21:34] [Server thread/INFO]: Atlas lost connection: Disconnected
+[08:21:34] [Server thread/INFO]: Atlas left the game.
+[08:22:04] [User Authenticator #17/INFO]: UUID of player Atlas is 1d4a9c61-6828-3517-9704-a0518eccaaa5
+[08:22:04] [Netty IO #0/INFO]: Client protocol version 2
+[08:22:04] [Netty IO #0/INFO]: Client attempting to join with 37 mods : DynamicLights_dropItems@1.0.8,VeinMinerModSupport@0.36.0_1.7.10-28a7f13,NotEnoughItems@1.0.5.120,DynamicLights_entityClasses@1.0.1,Waila@1.5.10,yarr_cutemobmodels@1.0.9,neiintegration@1.1.1,DynamicLights_onFire@1.0.4,FastCraft@1.25,NEIAddons@1.12.14.40,Forge@10.13.4.1614,NEIAddons|Botany@1.12.14.40,DynamicLights_otherPlayers@1.0.8,VeinMiner@0.36.0_1.7.10-28a7f13,DynamicLights_mobEquipment@1.0.8,DynamicLights@1.3.8,DynamicLights_floodLights@1.0.2,CodeChickenCore@1.0.7.47,MouseTweaks@2.4.4,NEIAddons|Developer@1.12.14.40,DynamicLights_flameArrows@1.0.0,mod_RadarBro@v1.9.9.9.9.9,bspkrsCore@6.15,mcp@9.05,craftguide@1.7.1.0,DynamicLights_creepers@1.0.4,InputFix@1.7.10-v5,FML@7.10.99.99,NEIAddons|Forestry@1.12.14.40,inventorytweaks@1.59-dev-152-cf6e263,Baubles@1.0.1.10,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,Scenter@1.7.10-3.2.1,WailaHarvestability@1.1.6,NEIAddons|AppEng@1.12.14.40,DynamicLights_thePlayer@1.1.4
+[08:22:04] [Netty IO #0/INFO]: Attempting connection with missing mods [kimagine, UraniumPlus] at CLIENT
+[08:22:04] [Server thread/INFO]: [Server thread] Server side modded connection established
+[08:22:04] [Server thread/INFO]: Atlas[/5.18.245.145:27327] logged in with entity id 29164 at ([world] 745.0875688420668, 80.2323053163473, 561395.1408759102)
+[08:22:22] [Server thread/INFO]: Atlas issued server command: /time set 654000
+[08:23:58] [Server thread/INFO]: Atlas issued server command: /give Atlas 383 64 55
+[08:24:43] [Server thread/INFO]: CORE issued server command: /gamemode ADVENTURE CORE
+[08:24:52] [Server thread/INFO]: CORE was slain by Slime
+[08:25:00] [Server thread/INFO]: CORE issued server command: /back
+[08:25:06] [Server thread/INFO]: CORE was slain by Slime
+[08:25:11] [Server thread/INFO]: CORE issued server command: /gamemode SURVIVAL CORE
+[08:25:14] [Server thread/INFO]: CORE issued server command: /toggledownfall
+[08:25:14] [Server thread/INFO]: CORE: Toggling downfall on for world 'world'[m
+[08:25:17] [Server thread/INFO]: CORE issued server command: /toggledownfall
+[08:25:17] [Server thread/INFO]: CORE: Toggling downfall off for world 'world'[m
+[08:25:17] [Server thread/INFO]: Atlas issued server command: /time set 678000
+[08:25:19] [Server thread/INFO]: CORE issued server command: /toggledownfall
+[08:25:19] [Server thread/INFO]: CORE: Toggling downfall on for world 'world'[m
+[08:25:24] [Server thread/INFO]: CORE issued server command: /gamemode CREATIVE CORE
+[08:25:26] [Server thread/INFO]: Atlas issued server command: /toggledownfall
+[08:25:26] [Server thread/INFO]: Atlas: Toggling downfall off for world 'world'[m
+[08:25:34] [Server thread/INFO]: CORE issued server command: /back
+[08:26:26] [Server thread/INFO]: CORE issued server command: /hat
+[08:26:29] [Server thread/INFO]: Atlas issued server command: /time set 714000
+[08:29:37] [Server thread/INFO]: Atlas issued server command: /time set 702000
+[08:34:57] [Server thread/INFO]: Atlas issued server command: /give Atlas 67 64 0
+[08:35:00] [Server thread/INFO]: Atlas issued server command: /time set 726000
+[08:35:45] [Server thread/INFO]: Atlas issued server command: /give Atlas 5 64 2
+[08:40:29] [Server thread/INFO]: Atlas issued server command: /time set 750000
+[08:41:11] [Server thread/INFO]: Atlas issued server command: /time set 774000
+[08:41:15] [Server thread/INFO]: Atlas issued server command: /toggledownfall
+[08:41:15] [Server thread/INFO]: Atlas: Toggling downfall off for world 'world'[m
+[08:41:17] [Server thread/INFO]: Atlas issued server command: /toggledownfall
+[08:41:17] [Server thread/INFO]: Atlas: Toggling downfall on for world 'world'[m
+[08:46:57] [Server thread/INFO]: Atlas issued server command: /toggledownfall
+[08:46:57] [Server thread/INFO]: Atlas: Toggling downfall off for world 'world'[m
+[08:47:00] [Server thread/INFO]: Atlas issued server command: /time set 792000
+[08:49:46] [Server thread/INFO]: Atlas issued server command: /give Atlas 12 64 0
+[08:57:29] [Server thread/INFO]: Atlas issued server command: /time set 822000
+[09:03:37] [Server thread/INFO]: CORE issued server command: /time set 846000
+[09:05:26] [Server thread/INFO]: Atlas issued server command: /give Atlas 2 64 0
+[09:09:23] [Server thread/INFO]: Atlas issued server command: /time set 870000
+[09:15:14] [Server thread/INFO]: Atlas issued server command: /give Atlas 373 1 8198
+[09:18:58] [Server thread/INFO]: Atlas issued server command: /give Atlas 20 64 0
+[09:19:01] [Server thread/INFO]: Atlas issued server command: /time set 894000
+[09:22:48] [Server thread/INFO]: Atlas issued server command: /give Atlas 13 64 0
+[09:36:28] [Server thread/INFO]: CORE issued server command: /gamemode ADVENTURE CORE
+[09:36:39] [Server thread/INFO]: CORE issued server command: /gamemode SURVIVAL CORE
+[09:36:44] [Server thread/INFO]: CORE issued server command: /gamemode CREATIVE CORE
+[09:44:20] [Server thread/INFO]: Atlas issued server command: /give Atlas 373 1 8262
+[09:55:33] [Server thread/INFO]: Atlas issued server command: /give Atlas 19 64 0
+[09:56:23] [Server thread/INFO]: CORE issued server command: /time set 966000
+[09:56:25] [Server thread/INFO]: CORE issued server command: /toggledownfall
+[09:56:25] [Server thread/INFO]: CORE: Toggling downfall off for world 'world'[m
+[09:56:26] [Server thread/INFO]: CORE issued server command: /toggledownfall
+[09:56:26] [Server thread/INFO]: CORE: Toggling downfall on for world 'world'[m
+[09:56:32] [Server thread/INFO]: Atlas issued server command: /toggledownfall
+[09:56:32] [Server thread/INFO]: Atlas: Toggling downfall off for world 'world'[m
+[09:57:30] [Server thread/INFO]: Atlas issued server command: /give Atlas 325 16 0
+[09:58:31] [Server thread/INFO]: Atlas issued server command: /give Atlas 277 1 0
+[09:59:09] [Server thread/INFO]: Atlas issued server command: /give Atlas 17 64 0
+[09:59:15] [Server thread/INFO]: Atlas issued server command: /give Atlas 279 1 0
+[10:00:45] [Server thread/INFO]: Atlas issued server command: /give Atlas 46 64 0
+[10:00:48] [Server thread/INFO]: Atlas issued server command: /give Atlas 76 64 0
+[10:01:32] [Server thread/INFO]: Atlas issued server command: /give Atlas 10 64 0
+[10:02:39] [Server thread/INFO]: Atlas lost connection: Disconnected
+[10:02:39] [Server thread/INFO]: Atlas left the game.
+[10:03:15] [User Authenticator #18/INFO]: UUID of player Atlas is 1d4a9c61-6828-3517-9704-a0518eccaaa5
+[10:03:15] [Netty IO #0/INFO]: Client protocol version 2
+[10:03:15] [Netty IO #0/INFO]: Client attempting to join with 37 mods : DynamicLights_dropItems@1.0.8,VeinMinerModSupport@0.36.0_1.7.10-28a7f13,NotEnoughItems@1.0.5.120,DynamicLights_entityClasses@1.0.1,Waila@1.5.10,yarr_cutemobmodels@1.0.9,neiintegration@1.1.1,DynamicLights_onFire@1.0.4,FastCraft@1.25,NEIAddons@1.12.14.40,Forge@10.13.4.1614,NEIAddons|Botany@1.12.14.40,DynamicLights_otherPlayers@1.0.8,VeinMiner@0.36.0_1.7.10-28a7f13,DynamicLights_mobEquipment@1.0.8,DynamicLights@1.3.8,DynamicLights_floodLights@1.0.2,CodeChickenCore@1.0.7.47,MouseTweaks@2.4.4,NEIAddons|Developer@1.12.14.40,DynamicLights_flameArrows@1.0.0,mod_RadarBro@v1.9.9.9.9.9,bspkrsCore@6.15,mcp@9.05,craftguide@1.7.1.0,DynamicLights_creepers@1.0.4,InputFix@1.7.10-v5,FML@7.10.99.99,NEIAddons|Forestry@1.12.14.40,inventorytweaks@1.59-dev-152-cf6e263,Baubles@1.0.1.10,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,Scenter@1.7.10-3.2.1,WailaHarvestability@1.1.6,NEIAddons|AppEng@1.12.14.40,DynamicLights_thePlayer@1.1.4
+[10:03:15] [Netty IO #0/INFO]: Attempting connection with missing mods [kimagine, UraniumPlus] at CLIENT
+[10:03:15] [Server thread/INFO]: [Server thread] Server side modded connection established
+[10:03:15] [Server thread/INFO]: Atlas[/5.18.245.145:27309] logged in with entity id 44199 at ([world] 479.4557554470272, 63.0, 561394.9341172072)
+[10:03:18] [Server thread/INFO]: Atlas issued server command: /time set 960000
+[10:03:26] [Server thread/INFO]: Atlas issued server command: /give Atlas 10 64 0
+[10:07:45] [Server thread/INFO]: Atlas lost connection: Disconnected
+[10:07:45] [Server thread/INFO]: Atlas left the game.
+[10:11:18] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[10:11:18] [Server thread/INFO]: Stopping server
+[10:11:18] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vPre2.14.1.3
+[10:11:18] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.7.0
+[10:11:18] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat vPre2.14.1.3
+[10:11:18] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vPre2.14.1.3
+[10:11:18] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vPre2.14.1.3
+[10:11:18] [Server thread/INFO]: [Essentials] Disabling Essentials vPre2.14.1.3
+[10:11:18] [Server thread/INFO]: [Scavenger] Disabling Scavenger v1.6-54
+[10:11:18] [Server thread/INFO]: [Scavenger] Saved ignore list. (Count = 0)
+[10:11:18] [Server thread/INFO]: Saving players
+[10:11:18] [Server thread/INFO]: CORE lost connection: Server closed
+[10:11:18] [Server thread/INFO]: CORE left the game.
+[10:11:18] [Server thread/INFO]: Saving worlds
+[10:11:18] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[10:11:18] [Server thread/INFO]: Saving chunks for level 'DIM1'/The End
+[10:11:18] [Server thread/INFO]: Saving chunks for level 'DIM-1'/Nether
+[10:11:18] [Server thread/INFO]: Unloading dimension 0
+[10:11:18] [Server thread/INFO]: Unloading dimension -1
+[10:11:18] [Server thread/INFO]: Unloading dimension 1
+[10:11:18] [Server thread/INFO]: Applying holder lookups
+[10:11:18] [Server thread/INFO]: Holder lookups applied
