@@ -1,0 +1,190 @@
+[03:19:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[03:19:31] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[03:19:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[03:19:31] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[03:19:31] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_242, running on Linux:amd64:4.9.0-12-amd64, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[03:19:31] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[03:19:31] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[03:19:31] [main/WARN] [FML]: The coremod CatCorePlugin (catserver.server.CatCorePlugin) is not signed!
+[03:19:31] [main/INFO] [FML]: Searching /home/minecraft/./mods for mods
+[03:19:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:19:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[03:19:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:19:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:19:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:19:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:19:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:19:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[03:19:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[03:19:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[03:19:34] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[03:19:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[03:19:40] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2847 Initialized
+[03:19:40] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[03:19:40] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[03:19:40] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[03:19:41] [Server thread/INFO] [FML]: Config directory created successfully
+[03:19:41] [Server thread/INFO] [FML]: Searching /home/minecraft/./mods for mods
+[03:19:41] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
+[03:19:41] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[03:19:41] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
+[03:19:41] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
+[03:19:42] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[03:19:42] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[03:19:42] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[03:19:42] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[03:19:43] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[03:19:43] [Server thread/INFO] [FML]: Applying holder lookups
+[03:19:43] [Server thread/INFO] [FML]: Holder lookups applied
+[03:19:43] [Server thread/INFO] [FML]: Applying holder lookups
+[03:19:43] [Server thread/INFO] [FML]: Holder lookups applied
+[03:19:43] [Server thread/INFO] [FML]: Applying holder lookups
+[03:19:43] [Server thread/INFO] [FML]: Holder lookups applied
+[03:19:43] [Server thread/INFO] [FML]: Applying holder lookups
+[03:19:43] [Server thread/INFO] [FML]: Holder lookups applied
+[03:19:43] [Server thread/INFO] [FML]: Injecting itemstacks
+[03:19:43] [Server thread/INFO] [FML]: Itemstack injection complete
+[03:19:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[03:19:43] [Server thread/WARN] [net.minecraft.server.dedicated.PropertyManager]: server.properties does not exist
+[03:19:43] [Server thread/INFO] [net.minecraft.server.dedicated.PropertyManager]: Generating new properties file
+[03:19:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[03:19:43] [Server thread/INFO] [Minecraft]: This server is running CatServer version git-CatServer-1.12.2-3440193 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[03:19:43] [Server thread/INFO] []: Server Ping Player Sample Count: 12
+[03:19:43] [Server thread/INFO] [Minecraft]: Using 4 threads for Netty based IO
+[03:19:43] [Server thread/INFO] [Minecraft]: Debug logging is enabled
+[03:19:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[03:19:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[03:19:44] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[03:19:44] [Server thread/INFO] [FML]: Applying holder lookups
+[03:19:44] [Server thread/INFO] [FML]: Holder lookups applied
+[03:19:44] [Server thread/INFO] [FML]: Injecting itemstacks
+[03:19:44] [Server thread/INFO] [FML]: Itemstack injection complete
+[03:19:44] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
+[03:19:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[03:19:46] [Server thread/INFO] [Minecraft]: -------- World Settings For [world] --------
+[03:19:46] [Server thread/INFO] [Minecraft]: Mob Spawn Range: 4
+[03:19:46] [Server thread/INFO] [Minecraft]: Cactus Growth Modifier: 100%
+[03:19:46] [Server thread/INFO] [Minecraft]: Cane Growth Modifier: 100%
+[03:19:46] [Server thread/INFO] [Minecraft]: Melon Growth Modifier: 100%
+[03:19:46] [Server thread/INFO] [Minecraft]: Mushroom Growth Modifier: 100%
+[03:19:46] [Server thread/INFO] [Minecraft]: Pumpkin Growth Modifier: 100%
+[03:19:46] [Server thread/INFO] [Minecraft]: Sapling Growth Modifier: 100%
+[03:19:46] [Server thread/INFO] [Minecraft]: Wheat Growth Modifier: 100%
+[03:19:46] [Server thread/INFO] [Minecraft]: NetherWart Growth Modifier: 100%
+[03:19:46] [Server thread/INFO] [Minecraft]: Vine Growth Modifier: 100%
+[03:19:46] [Server thread/INFO] [Minecraft]: Cocoa Growth Modifier: 100%
+[03:19:46] [Server thread/INFO] [Minecraft]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[03:19:46] [Server thread/INFO] [Minecraft]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[03:19:46] [Server thread/INFO] [Minecraft]: Random Lighting Updates: false
+[03:19:46] [Server thread/INFO] [Minecraft]: Structure Info Saving: true
+[03:19:46] [Server thread/INFO] [Minecraft]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[03:19:46] [Server thread/INFO] [Minecraft]: Max TNT Explosions: 100
+[03:19:46] [Server thread/INFO] [Minecraft]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:19:46] [Server thread/INFO] [Minecraft]: Item Merge Radius: 2.5
+[03:19:46] [Server thread/INFO] [Minecraft]: Experience Merge Radius: 3.0
+[03:19:46] [Server thread/INFO] [Minecraft]: Item Despawn Rate: 6000
+[03:19:46] [Server thread/INFO] [Minecraft]: Arrow Despawn Rate: 1200
+[03:19:46] [Server thread/INFO] [Minecraft]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:19:46] [Server thread/INFO] [Minecraft]: View Distance: 10
+[03:19:46] [Server thread/INFO] [Minecraft]: Zombie Aggressive Towards Villager: true
+[03:19:46] [Server thread/INFO] [Minecraft]: Nerfing mobs spawned from spawners: false
+[03:19:46] [Server thread/INFO] [Minecraft]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[03:19:46] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@445ce214)
+[03:19:46] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[03:19:48] [Server thread/INFO] [Minecraft]: -------- World Settings For [DIM-1] --------
+[03:19:48] [Server thread/INFO] [Minecraft]: Mob Spawn Range: 4
+[03:19:48] [Server thread/INFO] [Minecraft]: Cactus Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: Cane Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: Melon Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: Mushroom Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: Pumpkin Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: Sapling Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: Wheat Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: NetherWart Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: Vine Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: Cocoa Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[03:19:48] [Server thread/INFO] [Minecraft]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[03:19:48] [Server thread/INFO] [Minecraft]: Random Lighting Updates: false
+[03:19:48] [Server thread/INFO] [Minecraft]: Structure Info Saving: true
+[03:19:48] [Server thread/INFO] [Minecraft]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[03:19:48] [Server thread/INFO] [Minecraft]: Max TNT Explosions: 100
+[03:19:48] [Server thread/INFO] [Minecraft]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:19:48] [Server thread/INFO] [Minecraft]: Item Merge Radius: 2.5
+[03:19:48] [Server thread/INFO] [Minecraft]: Experience Merge Radius: 3.0
+[03:19:48] [Server thread/INFO] [Minecraft]: Item Despawn Rate: 6000
+[03:19:48] [Server thread/INFO] [Minecraft]: Arrow Despawn Rate: 1200
+[03:19:48] [Server thread/INFO] [Minecraft]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:19:48] [Server thread/INFO] [Minecraft]: View Distance: 10
+[03:19:48] [Server thread/INFO] [Minecraft]: Zombie Aggressive Towards Villager: true
+[03:19:48] [Server thread/INFO] [Minecraft]: Nerfing mobs spawned from spawners: false
+[03:19:48] [Server thread/INFO] [Minecraft]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[03:19:48] [Server thread/INFO] [FML]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@445ce214)
+[03:19:48] [Server thread/INFO] [Minecraft]: -------- World Settings For [DIM1] --------
+[03:19:48] [Server thread/INFO] [Minecraft]: Mob Spawn Range: 4
+[03:19:48] [Server thread/INFO] [Minecraft]: Cactus Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: Cane Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: Melon Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: Mushroom Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: Pumpkin Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: Sapling Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: Wheat Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: NetherWart Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: Vine Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: Cocoa Growth Modifier: 100%
+[03:19:48] [Server thread/INFO] [Minecraft]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[03:19:48] [Server thread/INFO] [Minecraft]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[03:19:48] [Server thread/INFO] [Minecraft]: Random Lighting Updates: false
+[03:19:48] [Server thread/INFO] [Minecraft]: Structure Info Saving: true
+[03:19:48] [Server thread/INFO] [Minecraft]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[03:19:48] [Server thread/INFO] [Minecraft]: Max TNT Explosions: 100
+[03:19:48] [Server thread/INFO] [Minecraft]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:19:48] [Server thread/INFO] [Minecraft]: Item Merge Radius: 2.5
+[03:19:48] [Server thread/INFO] [Minecraft]: Experience Merge Radius: 3.0
+[03:19:48] [Server thread/INFO] [Minecraft]: Item Despawn Rate: 6000
+[03:19:48] [Server thread/INFO] [Minecraft]: Arrow Despawn Rate: 1200
+[03:19:48] [Server thread/INFO] [Minecraft]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:19:48] [Server thread/INFO] [Minecraft]: View Distance: 10
+[03:19:48] [Server thread/INFO] [Minecraft]: Zombie Aggressive Towards Villager: true
+[03:19:48] [Server thread/INFO] [Minecraft]: Nerfing mobs spawned from spawners: false
+[03:19:48] [Server thread/INFO] [Minecraft]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[03:19:48] [Server thread/INFO] [FML]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@445ce214)
+[03:19:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0 (Seed: 512974811024121936)
+[03:19:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 4%
+[03:19:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 7%
+[03:19:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 10%
+[03:19:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 13%
+[03:19:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 16%
+[03:19:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 20%
+[03:19:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 23%
+[03:19:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 28%
+[03:19:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 34%
+[03:19:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 39%
+[03:19:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 45%
+[03:20:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 51%
+[03:20:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 58%
+[03:20:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 67%
+[03:20:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 75%
+[03:20:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 85%
+[03:20:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 95%
+[03:20:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 1 (Seed: 512974811024121936)
+[03:20:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 9%
+[03:20:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 26%
+[03:20:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 45%
+[03:20:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 65%
+[03:20:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 79%
+[03:20:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 98%
+[03:20:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 2 (Seed: 512974811024121936)
+[03:20:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 45%
+[03:20:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 90%
+[03:20:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (30.105s)! For help, type "help" or "?"
+[03:25:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[03:25:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:25:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:25:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[03:25:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[03:25:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM-1'/the_nether
+[03:25:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM1'/the_end
+[03:25:47] [Server thread/INFO] [FML]: Unloading dimension 0
+[03:25:47] [Server thread/INFO] [FML]: Unloading dimension -1
+[03:25:47] [Server thread/INFO] [FML]: Unloading dimension 1
