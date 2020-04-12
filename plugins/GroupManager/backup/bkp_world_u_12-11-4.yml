@@ -1,0 +1,12 @@
+#
+# GroupManager+ 
+# 	users.yml
+#
+# For a more advanced configuration example utilizing the advanced features of GroupManager+, see http://pastebin.com/a8ZA0j5G
+#
+users:
+  example:
+    group: Builder
+    subgroups: []
+    permissions:
+    - example
