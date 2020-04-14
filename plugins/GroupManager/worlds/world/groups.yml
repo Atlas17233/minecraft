@@ -38,6 +38,7 @@ groups:
     default: true
     permissions:
     - essentials.build
+    - essentials.fly
     - essentials.hat
     - scavenger.exp
     - scavenger.level
