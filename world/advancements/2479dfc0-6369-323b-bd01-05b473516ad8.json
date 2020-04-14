@@ -1,95 +1,26 @@
 {
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "entered_water": "2020-04-13 00:01:56 +0000"
+      "has_stone_pickaxe": "2020-04-14 02:49:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_pumpkin": "2020-04-12 23:58:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "entered_water": "2020-04-13 00:01:56 +0000"
+      "has_redstone_torch": "2020-04-14 02:50:32 +0000"
     },
     "done": true
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
-      "stone_pickaxe": "2020-04-12 23:32:22 +0000"
-    },
-    "done": true
-  },
-  "appliedenergistics2:main/presses": {
-    "criteria": {
-      "logic": "2020-04-13 00:07:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_stone_pickaxe": "2020-04-12 23:32:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "entered_water": "2020-04-13 00:01:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lit_pumpkin": {
-    "criteria": {
-      "has_pumpkin": "2020-04-12 23:58:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2020-04-12 23:44:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/boat": {
-    "criteria": {
-      "entered_water": "2020-04-13 00:01:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "entered_water": "2020-04-13 00:01:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2020-04-12 23:58:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "entered_water": "2020-04-13 00:01:56 +0000"
+      "stone_pickaxe": "2020-04-14 02:49:31 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "forest": "2020-04-13 00:06:20 +0000",
-      "birch_forest": "2020-04-13 00:04:55 +0000",
-      "plains": "2020-04-12 23:32:21 +0000",
-      "redwood_taiga": "2020-04-13 00:01:54 +0000",
-      "taiga": "2020-04-13 00:04:56 +0000",
-      "redwood_taiga_hills": "2020-04-13 00:01:59 +0000",
-      "taiga_hills": "2020-04-13 00:04:51 +0000",
-      "birch_forest_hills": "2020-04-13 00:05:07 +0000",
-      "extreme_hills": "2020-04-12 23:34:15 +0000",
-      "roofed_forest": "2020-04-12 23:46:44 +0000",
-      "river": "2020-04-13 00:04:54 +0000"
+      "plains": "2020-04-14 02:49:53 +0000",
+      "roofed_forest": "2020-04-14 02:49:30 +0000"
     },
     "done": false
   }
