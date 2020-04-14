@@ -35,8 +35,13 @@ groups:
       prefix: '&4'
       suffix: ''
   Builder:
-    default: false
-    permissions: []
+    default: true
+    permissions:
+    - essentials.build
+    - essentials.hat
+    - scavenger.exp
+    - scavenger.level
+    - scavenger.scavenge
     inheritance:
     - default
     - g:essentials_builder
@@ -60,7 +65,7 @@ groups:
       prefix: '&c'
       suffix: ''
   Default:
-    default: true
+    default: false
     permissions:
     - -bukkit.command.kill
     - essentials.hat
