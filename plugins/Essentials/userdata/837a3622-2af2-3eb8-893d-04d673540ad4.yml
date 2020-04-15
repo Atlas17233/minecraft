@@ -1,0 +1,43 @@
+lastAccountName: DANTELZ
+timestamps:
+  login: 1586882191914
+  logout: 1586891522534
+  lastteleport: 1586890009743
+ipAddress: 182.34.216.191
+lastlocation:
+  world: world
+  x: -650.1330906173819
+  y: 69.0
+  z: -430.30000001192093
+  yaw: -8.325439
+  pitch: 17.399948
+logoutlocation:
+  world: world
+  x: -424.15569866466114
+  y: 64.0
+  z: -452.61329627205583
+  yaw: -74.2605
+  pitch: 25.34991
+homes:
+  home:
+    world: world
+    x: 434.38165828538536
+    y: 25.0
+    z: -30.53316530192906
+    yaw: -213.0122
+    pitch: 5.5502534
+  a:
+    world: world
+    x: -655.5821687492244
+    y: 15.0
+    z: -219.3642358089555
+    yaw: -79.81055
+    pitch: 23.701015
+  b:
+    world: world
+    x: -648.2944836089418
+    y: 69.0
+    z: -434.72955496755145
+    yaw: 74.14382
+    pitch: 34.4998
+afk: false
