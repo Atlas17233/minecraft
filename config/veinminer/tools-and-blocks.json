@@ -31,15 +31,9 @@
       "blocklist": [
         "ic2:leaves",
         "minecraft:fence",
-        "minecraft:leaves",
-        "minecraft:leaves2",
         "minecraft:log",
         "minecraft:log2",
-        "twilightforest:dark_leaves",
-        "twilightforest:magic_leaves",
         "twilightforest:magic_log",
-        "twilightforest:twilight_leaves",
-        "twilightforest:twilight_leaves_3",
         "twilightforest:twilight_log"
       ]
     },
