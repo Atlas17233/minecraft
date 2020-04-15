@@ -1,0 +1,15 @@
+world:
+  keepSpawnInMemory: true
+  enableSkipEntityTick: true
+  enableSkipTileEntityTick: false
+  worldGenMaxTick: 15
+  disableForgeGenerateWorlds:
+  - ExampleCustomWorld
+  preventBlockLoadChunk: false
+fakePlayer:
+  permissions:
+  - essentials.build
+  eventPass: false
+disableUpdateGameProfile: false
+disableFMLHandshake: false
+disableFMLStatusModInfo: false
