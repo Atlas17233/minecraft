@@ -28,15 +28,10 @@ settings:
   bungeecord: false
   late-bind: false
   sample-count: 12
-  filter-creative-items: true
   int-cache-limit: 1024
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
   item-dirty-ticks: 20
-  timeout-time: 60
-  restart-on-crash: true
-  restart-script: ./start.sh
-  netty-threads: 4
   attribute:
     maxHealth:
       max: 2048.0
@@ -44,11 +39,15 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
+  filter-creative-items: true
+  timeout-time: 60
+  restart-on-crash: true
+  restart-script: ./start.sh
+  netty-threads: 4
   debug: false
 commands:
   tab-complete: 0
   silent-commandblock-console: false
-  log: true
   spam-exclusions:
   - /skill
   replace-commands:
@@ -56,6 +55,7 @@ commands:
   - summon
   - testforblock
   - tellraw
+  log: true
 advancements:
   disable-saving: false
   disabled:
@@ -75,17 +75,6 @@ world-settings:
       netherwart-modifier: 100
       vine-modifier: 100
       cocoa-modifier: 100
-    entity-activation-range:
-      animals: 32
-      monsters: 32
-      misc: 16
-      tick-inactive-villagers: true
-    ticks-per:
-      hopper-transfer: 8
-      hopper-check: 1
-    hopper-amount: 1
-    random-light-updates: false
-    save-structure-info: true
     dragon-death-sound-radius: 0
     seed-village: 10387312
     seed-feature: 14357617
@@ -105,20 +94,31 @@ world-settings:
       entity: 50
     squid-spawn-range:
       min: 45.0
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
+      tick-inactive-villagers: true
+    ticks-per:
+      hopper-transfer: 8
+      hopper-check: 1
+    hopper-amount: 1
+    random-light-updates: false
+    save-structure-info: true
     merge-radius:
       exp: 3.0
       item: 2.5
     item-despawn-rate: 6000
     arrow-despawn-rate: 1200
-    entity-tracking-range:
-      players: 48
-      animals: 48
-      monsters: 48
-      misc: 32
-      other: 64
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
     view-distance: 10
     hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: true
     nerf-spawner-mobs: false
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
