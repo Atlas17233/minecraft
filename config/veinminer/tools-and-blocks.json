@@ -88,11 +88,18 @@
         "thermalfoundation:tool.sickle_wood"
       ],
       "blocklist": [
+        "ic2:leaves",
         "minecraft:carrots",
+        "minecraft:leaves",
+        "minecraft:leaves2",
         "minecraft:melon_block",
         "minecraft:potatoes",
         "minecraft:pumpkin",
-        "minecraft:wheat"
+        "minecraft:wheat",
+        "twilightforest:dark_leaves",
+        "twilightforest:magic_leaves",
+        "twilightforest:twilight_leaves",
+        "twilightforest:twilight_leaves_3"
       ]
     },
     "pickaxe": {
