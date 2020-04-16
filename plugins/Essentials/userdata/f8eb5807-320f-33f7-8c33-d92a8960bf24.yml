@@ -1,0 +1,29 @@
+lastAccountName: RESP
+timestamps:
+  login: 1586962620006
+  lastteleport: 1586969550752
+  logout: 1586969677110
+ipAddress: 118.193.31.254
+lastlocation:
+  world: world
+  x: 8.0
+  y: 64.0
+  z: 256.0
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: world
+    x: 8.0
+    y: 64.0
+    z: 256.0
+    yaw: -28.5
+    pitch: 9.3
+logoutlocation:
+  world: DIM7
+  x: -8458475.615912432
+  y: 31.0
+  z: 2.9147941197158173E7
+  yaw: -191.36311
+  pitch: 9.150017
+afk: false

@@ -1,0 +1,21 @@
+lastAccountName: DANTELZ
+timestamps:
+  login: 1586960351209
+  logout: 1586969806444
+  lastteleport: 1586966347542
+ipAddress: 129.227.113.210
+lastlocation:
+  world: DIM7
+  x: -8457912.199999988
+  y: 15.636986233029452
+  z: 2.9147464200604316E7
+  yaw: -68.26065
+  pitch: 46.80017
+logoutlocation:
+  world: DIM7
+  x: -8458446.426115178
+  y: 34.0
+  z: 2.91479468459208E7
+  yaw: -92.061584
+  pitch: 21.450039
+afk: false
