@@ -63,6 +63,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/winter_wolf": {
+    "criteria": {
+      "hurt_by_indirect": "2020-04-16 15:42:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2020-04-15 16:15:52 +0000"
@@ -130,6 +136,18 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/magic_beanstalk": {
+    "criteria": {
+      "beans": "2020-04-16 15:53:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/fire_jet": {
+    "criteria": {
+      "fire_swamp": "2020-04-16 16:44:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-15 10:21:01 +0000"
@@ -163,6 +181,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2020-04-15 09:48:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/giants": {
+    "criteria": {
+      "1": "2020-04-16 15:54:38 +0000"
     },
     "done": true
   },
@@ -202,6 +226,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-04-16 17:06:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2020-04-15 16:17:35 +0000"
@@ -214,9 +244,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-04-16 15:37:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/penguin": {
+    "criteria": {
+      "slay": "2020-04-16 15:46:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-04-15 10:17:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/general_biomes": {
+    "criteria": {
+      "5": "2020-04-15 14:39:01 +0000"
     },
     "done": true
   },
@@ -227,9 +275,9 @@
     },
     "done": false
   },
-  "twilightforest:alt/biomes/general_biomes": {
+  "twilightforest:alt/entities/wolves": {
     "criteria": {
-      "5": "2020-04-15 14:39:01 +0000"
+      "2": "2020-04-16 15:42:07 +0000"
     },
     "done": true
   },
@@ -251,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2020-04-16 15:56:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-04-15 15:54:09 +0000"
@@ -266,6 +320,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-04-15 10:17:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/roving_cube": {
+    "criteria": {
+      "slay": "2020-04-16 16:48:39 +0000"
     },
     "done": true
   },
@@ -353,6 +413,18 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/troll_lairs": {
+    "criteria": {
+      "discover": "2020-04-16 15:52:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/final_castle": {
+    "criteria": {
+      "discover": "2020-04-16 16:00:22 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/major_landmarks/dark_tower": {
     "criteria": {
       "discover": "2020-04-15 16:40:01 +0000"
@@ -398,6 +470,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-04-16 17:06:12 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/magic_map": {
     "criteria": {
       "magic_map_empty": "2020-04-15 14:39:57 +0000"
@@ -407,6 +485,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-15 10:21:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/ice_crystal": {
+    "criteria": {
+      "slay": "2020-04-16 15:44:14 +0000"
     },
     "done": true
   },
@@ -446,6 +530,13 @@
     },
     "done": true
   },
+  "twilightforest:progress_castle": {
+    "criteria": {
+      "discover": "2020-04-16 16:00:22 +0000",
+      "previous_progression": "2020-04-16 16:00:22 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/biomes/oak_savannah": {
     "criteria": {
       "discover": "2020-04-15 14:44:25 +0000"
@@ -455,6 +546,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2020-04-15 15:54:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/animals": {
+    "criteria": {
+      "7": "2020-04-16 15:46:41 +0000"
     },
     "done": true
   },
@@ -519,9 +616,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
+  "twilightforest:alt/major_landmarks/giant_cloud": {
     "criteria": {
-      "has_redstone": "2020-04-15 16:42:38 +0000"
+      "discover": "2020-04-16 15:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-04-15 14:51:33 +0000"
     },
     "done": true
   },
@@ -531,9 +634,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
-      "consumed_item": "2020-04-15 14:51:33 +0000"
+      "has_redstone": "2020-04-15 16:42:38 +0000"
     },
     "done": true
   },
@@ -570,6 +673,13 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2020-04-15 10:17:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_thorns": {
+    "criteria": {
+      "discover": "2020-04-16 16:00:22 +0000",
+      "previous_progression": "2020-04-16 15:53:00 +0000"
     },
     "done": true
   },
@@ -629,6 +739,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "slime": "2020-04-16 16:31:24 +0000",
       "skeleton": "2020-04-15 14:58:33 +0000",
       "silverfish": "2020-04-15 15:57:31 +0000",
       "zombie": "2020-04-15 14:59:17 +0000",
@@ -673,9 +784,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2020-04-16 15:56:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/naga_armor_set": {
     "criteria": {
       "chestplate": "2020-04-15 16:11:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/bighorn_sheep": {
+    "criteria": {
+      "slay": "2020-04-16 15:56:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/harbinger_cube": {
+    "criteria": {
+      "slay": "2020-04-16 16:13:10 +0000"
     },
     "done": true
   },
@@ -700,6 +829,12 @@
   "twilightforest:ghast_trap": {
     "criteria": {
       "activate_ghast_trap": "2020-04-15 16:42:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/giant_tool_set": {
+    "criteria": {
+      "pickaxe": "2020-04-16 15:49:40 +0000"
     },
     "done": true
   },
@@ -732,9 +867,10 @@
   },
   "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2020-04-15 16:50:14 +0000"
+      "previous_progression": "2020-04-15 16:50:14 +0000",
+      "queen": "2020-04-16 15:43:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
@@ -745,6 +881,18 @@
   "twilightforest:twilight_hunter": {
     "criteria": {
       "naga": "2020-04-15 14:45:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/troll": {
+    "criteria": {
+      "slay": "2020-04-16 15:52:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/raven": {
+    "criteria": {
+      "slay": "2020-04-16 16:07:01 +0000"
     },
     "done": true
   },
@@ -772,6 +920,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/adherent": {
+    "criteria": {
+      "slay": "2020-04-16 16:04:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-15 10:21:01 +0000"
@@ -796,15 +950,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/cyan_dye": {
-    "criteria": {
-      "has_lapis": "2020-04-15 16:34:36 +0000"
-    },
-    "done": true
-  },
   "twilightforest:alt/entities/redcap_sapper": {
     "criteria": {
       "slay": "2020-04-15 15:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2020-04-15 16:34:36 +0000"
     },
     "done": true
   },
@@ -826,6 +980,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/ice_tower": {
+    "criteria": {
+      "discover": "2020-04-16 15:42:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_lapis": "2020-04-15 16:34:36 +0000"
@@ -835,6 +995,18 @@
   "twilightforest:alt/entities/minoshroom": {
     "criteria": {
       "hurt": "2020-04-15 16:03:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/highlands_center": {
+    "criteria": {
+      "discover": "2020-04-16 16:00:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/king_spider": {
+    "criteria": {
+      "slay": "2020-04-16 16:49:46 +0000"
     },
     "done": true
   },
@@ -853,6 +1025,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2020-04-15 10:21:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/undead": {
+    "criteria": {
+      "0": "2020-04-16 15:51:26 +0000"
     },
     "done": true
   },
@@ -892,6 +1070,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2020-04-16 15:56:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/smoking_block": {
+    "criteria": {
+      "fire_swamp": "2020-04-16 16:44:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/moon_dial": {
+    "criteria": {
+      "moon_dial": "2020-04-16 16:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-15 10:21:01 +0000"
@@ -910,15 +1106,22 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
+  "twilightforest:progress_troll": {
     "criteria": {
-      "has_stone": "2020-04-15 16:28:14 +0000"
+      "previous_progression": "2020-04-16 15:43:22 +0000",
+      "lamp": "2020-04-16 15:53:00 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/lich": {
     "criteria": {
       "hurt_by_indirect": "2020-04-15 14:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2020-04-15 16:28:14 +0000"
     },
     "done": true
   },
@@ -1013,9 +1216,27 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/skeleton_druid": {
+    "criteria": {
+      "slay": "2020-04-16 15:51:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/fire_swamp": {
+    "criteria": {
+      "discover": "2020-04-16 16:44:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2020-04-15 15:50:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/giant_miner": {
+    "criteria": {
+      "hurt": "2020-04-16 15:54:57 +0000"
     },
     "done": true
   },
@@ -1058,13 +1279,20 @@
   "twilightforest:progress_merge": {
     "criteria": {
       "hydra": "2020-04-15 16:17:35 +0000",
+      "snow_queen": "2020-04-16 15:43:22 +0000",
       "ur_ghast": "2020-04-15 16:44:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:alt/treasures/knightmetal_tool_set": {
     "criteria": {
       "ingredient": "2020-04-15 15:52:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/snow_queen": {
+    "criteria": {
+      "hurt": "2020-04-16 15:43:16 +0000"
     },
     "done": true
   },
@@ -1178,6 +1406,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/pinch_beetle": {
+    "criteria": {
+      "slay": "2020-04-16 16:56:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2020-04-15 15:50:49 +0000"
@@ -1220,6 +1454,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2020-04-15 11:55:07 +0000",
+      "deep_ocean": "2020-04-16 16:53:39 +0000",
       "beaches": "2020-04-15 10:13:32 +0000",
       "forest_hills": "2020-04-15 14:14:13 +0000",
       "plains": "2020-04-15 10:13:38 +0000",
@@ -1243,6 +1478,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/twilight_swamp": {
+    "criteria": {
+      "0": "2020-04-16 16:39:08 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_labyrinth": {
     "criteria": {
       "meef": "2020-04-15 16:17:35 +0000",
@@ -1253,6 +1494,12 @@
   "twilightforest:alt/treasures/fiery_blood_tears": {
     "criteria": {
       "tools": "2020-04-15 15:41:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/armored_giant": {
+    "criteria": {
+      "hurt_by_indirect": "2020-04-16 15:54:38 +0000"
     },
     "done": true
   },
@@ -1358,6 +1605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2020-04-16 15:56:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/entities/lich_zombies": {
     "criteria": {
       "hurt_alt": "2020-04-15 14:55:14 +0000"
@@ -1444,6 +1697,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/hydra_lair": {
+    "criteria": {
+      "discover": "2020-04-16 16:44:43 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/tools": {
     "criteria": {
       "2": "2020-04-15 15:41:14 +0000",
@@ -1457,6 +1716,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/labyrinth": {
+    "criteria": {
+      "discover": "2020-04-16 16:41:15 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/ore_map": {
     "criteria": {
       "ore_map_empty": "2020-04-15 15:46:45 +0000"
@@ -1467,6 +1732,12 @@
     "criteria": {
       "kill_lich": "2020-04-15 14:55:47 +0000",
       "kill_naga": "2020-04-15 14:45:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_glacier": {
+    "criteria": {
+      "discover": "2020-04-16 15:42:31 +0000"
     },
     "done": true
   },

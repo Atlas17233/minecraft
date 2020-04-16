@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/trophies": {
+    "criteria": {
+      "1": "2020-04-16 15:04:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-15 06:25:35 +0000"
@@ -67,9 +73,10 @@
   },
   "twilightforest:progress_naga": {
     "criteria": {
-      "kill_mob": "2020-04-15 16:36:06 +0000"
+      "kill_mob": "2020-04-15 16:36:06 +0000",
+      "naga": "2020-04-16 15:04:34 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
@@ -227,6 +234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2020-04-16 15:00:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2020-04-15 08:21:43 +0000"
@@ -288,6 +301,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/naga": {
+    "criteria": {
+      "hurt_by_indirect": "2020-04-16 15:03:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-04-15 06:25:35 +0000"
@@ -315,6 +334,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-15 06:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2020-04-16 15:00:00 +0000"
     },
     "done": true
   },
@@ -495,6 +520,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-15 06:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2020-04-16 15:00:00 +0000"
     },
     "done": true
   },
@@ -725,6 +756,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2020-04-16 15:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2020-04-16 15:00:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2020-04-15 06:42:37 +0000"
@@ -746,6 +789,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-15 08:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2020-04-16 15:00:00 +0000"
     },
     "done": true
   },
@@ -1003,6 +1052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2020-04-16 15:00:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2020-04-15 06:56:37 +0000",
@@ -1010,14 +1065,19 @@
       "deep_ocean": "2020-04-15 07:01:25 +0000",
       "beaches": "2020-04-15 07:03:42 +0000",
       "extreme_hills_with_trees": "2020-04-15 06:29:29 +0000",
+      "desert_hills": "2020-04-16 14:52:34 +0000",
+      "forest_hills": "2020-04-16 14:57:27 +0000",
       "plains": "2020-04-15 06:48:50 +0000",
+      "savanna": "2020-04-16 14:52:02 +0000",
+      "savanna_rock": "2020-04-16 14:52:04 +0000",
       "ice_mountains": "2020-04-15 06:58:24 +0000",
       "taiga": "2020-04-15 05:54:34 +0000",
       "taiga_hills": "2020-04-15 06:57:01 +0000",
       "ocean": "2020-04-15 07:03:53 +0000",
       "extreme_hills": "2020-04-15 06:23:34 +0000",
       "roofed_forest": "2020-04-15 06:55:49 +0000",
-      "river": "2020-04-15 06:27:46 +0000"
+      "river": "2020-04-15 06:27:46 +0000",
+      "desert": "2020-04-16 14:52:32 +0000"
     },
     "done": false
   },
@@ -1036,6 +1096,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-04-15 06:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-04-16 14:22:04 +0000"
     },
     "done": true
   },
@@ -1078,6 +1144,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2020-04-15 06:23:24 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2020-04-16 14:31:38 +0000"
     },
     "done": true
   },
@@ -1165,6 +1237,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_the_recipe": "2020-04-16 15:00:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2020-04-16 15:04:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-04-15 06:37:57 +0000"
@@ -1192,6 +1276,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-15 08:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2020-04-16 15:00:00 +0000"
     },
     "done": true
   }
