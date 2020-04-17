@@ -1,7 +1,7 @@
 lastAccountName: Atlas17233
 timestamps:
-  login: 1587057560118
-  logout: 1587061256935
+  login: 1587122619784
+  logout: 1587122644816
   lastteleport: 1587049492949
 ipAddress: 5.18.247.142
 lastlocation:
@@ -13,11 +13,11 @@ lastlocation:
   pitch: 1.3500682
 logoutlocation:
   world: world
-  x: -8457501.635378715
+  x: -8457513.580420692
   y: 64.0
-  z: 2.9144129594871253E7
-  yaw: -187.23584
-  pitch: 3.750158
+  z: 2.9144124246906314E7
+  yaw: -172.68674
+  pitch: 29.100004
 homes:
   home:
     world: world

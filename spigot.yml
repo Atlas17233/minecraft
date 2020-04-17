@@ -25,18 +25,10 @@ settings:
   save-user-cache-on-stop-only: false
   player-shuffle: 0
   user-cache-size: 1000
-  sample-count: 12
-  int-cache-limit: 1024
-  moved-wrongly-threshold: 0.0625
-  moved-too-quickly-multiplier: 10.0
-  item-dirty-ticks: 20
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
   netty-threads: 4
-  filter-creative-items: true
-  bungeecord: false
-  late-bind: false
   attribute:
     maxHealth:
       max: 2048.0
@@ -44,6 +36,14 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
+  bungeecord: false
+  late-bind: false
+  sample-count: 12
+  filter-creative-items: true
+  int-cache-limit: 1024
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-multiplier: 10.0
+  item-dirty-ticks: 20
   debug: false
 commands:
   tab-complete: 0
@@ -74,7 +74,6 @@ world-settings:
     hopper-amount: 1
     random-light-updates: false
     save-structure-info: true
-    dragon-death-sound-radius: 0
     mob-spawn-range: 4
     growth:
       cactus-modifier: 100
@@ -87,6 +86,7 @@ world-settings:
       netherwart-modifier: 100
       vine-modifier: 100
       cocoa-modifier: 100
+    dragon-death-sound-radius: 0
     seed-village: 10387312
     seed-feature: 14357617
     seed-monument: 10387313

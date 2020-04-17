@@ -1,698 +1,127 @@
-[17:09:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[17:09:43] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[17:09:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[17:09:43] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
-[17:09:43] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_242, running on Linux:amd64:4.9.0-12-amd64, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[17:09:43] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
-[17:09:43] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
-[17:09:43] [main/WARN] [FML]: The coremod CatCorePlugin (catserver.server.CatCorePlugin) is not signed!
-[17:09:43] [main/INFO] [FML]: Searching /home/minecraft/./mods for mods
-[17:09:43] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[17:09:43] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[17:09:43] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
-[17:09:43] [main/WARN] [FML]: The coremod me.towdium.jecharacters.core.JechCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[17:09:43] [main/WARN] [FML]: The coremod JechCore (me.towdium.jecharacters.core.JechCore) is not signed!
-[17:09:43] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.12.2-9.8.3.390.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[17:09:43] [main/WARN] [FML]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[17:09:43] [main/WARN] [FML]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
-[17:09:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:09:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[17:09:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:09:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:09:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:09:46] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:09:46] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:09:46] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:09:46] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:09:46] [main/INFO] [jecharacters]: Starting loading pinyin data
-[17:09:46] [main/INFO] [jecharacters]: Finished loading pinyin data
-[17:09:46] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[17:09:47] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:09:47] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[17:09:47] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[17:09:47] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[17:09:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[17:09:51] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2847 Initialized
-[17:09:51] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[17:09:52] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[17:09:52] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[17:09:52] [Server thread/INFO] [FML]: Searching /home/minecraft/./mods for mods
-[17:09:53] [Server thread/WARN] [FML]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.3.358
-[17:09:54] [Server thread/WARN] [FML]: Mod mekanismgenerators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
-[17:09:55] [Server thread/WARN] [FML]: Mod veinminer is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.38.2
-[17:09:55] [Server thread/WARN] [FML]: Mod veinminermodsupport is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.38.2
-[17:09:55] [Server thread/INFO] [FML]: Forge Mod Loader has identified 38 mods to load
-[17:09:55] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[17:09:55] [Server thread/WARN] [FML]: Missing English translation for buildcraftbuilders: assets/buildcraftbuilders/lang/en_us.lang
-[17:09:55] [Server thread/WARN] [FML]: Missing English translation for buildcraftcore: assets/buildcraftcore/lang/en_us.lang
-[17:09:55] [Server thread/WARN] [FML]: Missing English translation for buildcraftenergy: assets/buildcraftenergy/lang/en_us.lang
-[17:09:55] [Server thread/WARN] [FML]: Missing English translation for buildcraftfactory: assets/buildcraftfactory/lang/en_us.lang
-[17:09:55] [Server thread/WARN] [FML]: Missing English translation for buildcraftrobotics: assets/buildcraftrobotics/lang/en_us.lang
-[17:09:55] [Server thread/WARN] [FML]: Missing English translation for buildcraftsilicon: assets/buildcraftsilicon/lang/en_us.lang
-[17:09:55] [Server thread/WARN] [FML]: Missing English translation for buildcrafttransport: assets/buildcrafttransport/lang/en_us.lang
-[17:09:55] [Server thread/WARN] [FML]: Missing English translation for codechickenlib: assets/codechickenlib/lang/en_us.lang
-[17:09:55] [Server thread/WARN] [FML]: Missing English translation for cofhcore: assets/cofhcore/lang/en_us.lang
-[17:09:55] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
-[17:09:55] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
-[17:09:55] [Server thread/WARN] [FML]: Missing English translation for mcmultipart: assets/mcmultipart/lang/en_us.lang
-[17:09:55] [Server thread/WARN] [FML]: Missing English translation for mekanismgenerators: assets/mekanismgenerators/lang/en_us.lang
-[17:09:55] [Server thread/WARN] [FML]: Missing English translation for redstoneflux: assets/redstoneflux/lang/en_us.lang
-[17:09:55] [Server thread/WARN] [FML]: Missing English translation for teslacorelib_registries: assets/teslacorelib_registries/lang/en_us.lang
-[17:09:55] [Server thread/WARN] [FML]: Missing English translation for veinminermodsupport: assets/veinminermodsupport/lang/en_us.lang
-[17:09:55] [Server thread/WARN] [FML]: Missing English translation for worldedit: assets/worldedit/lang/en_us.lang
-[17:09:55] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jecharacters, appliedenergistics2, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, codechickenlib, cofhcore, cofhworld, bigreactors, forgelin, ic2, industrialforegoing, mcmultipart, mekanism, mekanismgenerators, redstoneflux, teslacorelib, teslacorelib_registries, thermaldynamics, thermalexpansion, thermalfoundation, thermalinnovation, twilightforest, veinminer, veinminermodsupport, worldedit, yarrmateys_cutemobmodels, zerocore] at CLIENT
-[17:09:55] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jecharacters, appliedenergistics2, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, codechickenlib, cofhcore, cofhworld, bigreactors, forgelin, ic2, industrialforegoing, mcmultipart, mekanism, mekanismgenerators, redstoneflux, teslacorelib, teslacorelib_registries, thermaldynamics, thermalexpansion, thermalfoundation, thermalinnovation, twilightforest, veinminer, veinminermodsupport, worldedit, yarrmateys_cutemobmodels, zerocore] at SERVER
-[17:09:56] [Server thread/ERROR] [FML]: The mod redstoneflux is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source RedstoneFlux-1.12-2.1.1.1-universal.jar, however there is no signature matching that description
-[17:09:56] [Server thread/ERROR] [FML]: The mod cofhworld is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source CoFHWorld-1.12.2-1.4.0.1-universal.jar, however there is no signature matching that description
-[17:09:59] [Server thread/WARN] [teslacorelib]: Annotated class 'net.ndrei.teslacorelib.blocks.multipart.MultiPartBlockEvents' not found!
-[17:10:00] [Server thread/ERROR] [FML]: The mod thermalfoundation is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalFoundation-1.12.2-2.6.7.1-universal.jar, however there is no signature matching that description
-[17:10:00] [Server thread/ERROR] [FML]: The mod thermalexpansion is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalExpansion-1.12.2-5.5.7.1-universal.jar, however there is no signature matching that description
-[17:10:00] [Server thread/ERROR] [FML]: The mod thermaldynamics is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalDynamics-1.12.2-2.5.6.1-universal.jar, however there is no signature matching that description
-[17:10:00] [Server thread/ERROR] [FML]: The mod thermalinnovation is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalInnovation-1.12.2-0.3.6.1-universal.jar, however there is no signature matching that description
-[17:10:00] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[17:10:00] [Server thread/INFO] [FML]: Found 1628 ObjectHolder annotations
-[17:10:00] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[17:10:00] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[17:10:01] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[17:10:01] [Server thread/INFO] [AE2:S]: Pre Initialization ( started )
-[17:10:03] [Server thread/INFO] [AE2:S]: Starting AE2 VersionChecker
-[17:10:03] [Server thread/INFO] [AE2:S]: Pre Initialization ( ended after 2628ms )
-[17:10:03] [AE2 VersionChecker/INFO] [AE2:S]: Last check was just recently.
-[17:10:03] [AE2 VersionChecker/INFO] [AE2:S]: Stopping AE2 VersionChecker
-[17:10:03] [Server thread/INFO] [BuildCraft]: 
-[17:10:03] [Server thread/INFO] [BuildCraft]: Starting BuildCraft 7.99.24.6
-[17:10:03] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2018
-[17:10:03] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
-[17:10:03] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
-[17:10:03] [Server thread/INFO] [BuildCraft]:   Branch HEAD
-[17:10:03] [Server thread/INFO] [BuildCraft]:   Commit 28b89ad8936f9d6c1ad00a7491453f68fc683232
-[17:10:03] [Server thread/INFO] [BuildCraft]:     Update Localisation, changelog and version for 7.99.24.6
-[17:10:03] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
-[17:10:03] [Server thread/INFO] [BuildCraft]: 
-[17:10:03] [Server thread/INFO] [BuildCraft]: Loaded Modules:
-[17:10:03] [Server thread/INFO] [BuildCraft]:   - lib
-[17:10:03] [Server thread/INFO] [BuildCraft]:   - core
-[17:10:03] [Server thread/INFO] [BuildCraft]:   - builders
-[17:10:03] [Server thread/INFO] [BuildCraft]:   - energy
-[17:10:03] [Server thread/INFO] [BuildCraft]:   - factory
-[17:10:03] [Server thread/INFO] [BuildCraft]:   - robotics
-[17:10:03] [Server thread/INFO] [BuildCraft]:   - silicon
-[17:10:03] [Server thread/INFO] [BuildCraft]:   - transport
-[17:10:03] [Server thread/INFO] [BuildCraft]:   - compat
-[17:10:03] [Server thread/INFO] [BuildCraft]: Missing Modules:
-[17:10:03] [Server thread/INFO] [BuildCraft]: 
-[17:10:04] [Server thread/INFO] [BuildCraft]: [debugger] Not a dev environment!
-[17:10:04] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[17:10:05] [Server thread/INFO] [BuildCraft]: 
-[17:10:05] [Server thread/INFO] [BuildCraft]: Starting BuildCraftCompat 7.99.24.6
-[17:10:05] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2017
-[17:10:05] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
-[17:10:05] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
-[17:10:05] [Server thread/INFO] [BuildCraft]:   Branch 8.0.x-1.12.2
-[17:10:05] [Server thread/INFO] [BuildCraft]:   Commit 3ce2fe3c5d1a541dcc0db3285bdb840e44615cde
-[17:10:05] [Server thread/INFO] [BuildCraft]:     Update BC for 7.99.24.6
-[17:10:05] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
-[17:10:05] [Server thread/INFO] [BuildCraft]: 
-[17:10:05] [Server thread/INFO] [BuildCraft]: [compat] Module list:
-[17:10:05] [Server thread/INFO] [BuildCraft]: [compat]   x forestry (It cannot load)
-[17:10:05] [Server thread/INFO] [BuildCraft]: [compat]   x theoneprobe (It cannot load)
-[17:10:05] [Server thread/INFO] [BuildCraft]: [compat]   x crafttweaker (It cannot load)
-[17:10:06] [Server thread/INFO] [CoFH World]: Registering default Feature Templates...
-[17:10:06] [Server thread/INFO] [CoFH World]: Registering default World Generators...
-[17:10:06] [Server thread/INFO] [CoFH World]: Verifying or creating base world generation directory...
-[17:10:06] [Server thread/INFO] [CoFH World]: Complete.
-[17:10:06] [Server thread/INFO] [BigReactors]: Loaded support for thermalexpansion
-[17:10:06] [Server thread/INFO] [BigReactors]: Loaded support for mekanism
-[17:10:13] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 352 out of 352 recipes for shaped recipes
-[17:10:13] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
-[17:10:13] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
-[17:10:13] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
-[17:10:13] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
-[17:10:13] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
-[17:10:13] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
-[17:10:13] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 13 out of 13 recipes for extractor recipes
-[17:10:13] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 86 out of 86 recipes for macerator recipes
-[17:10:13] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
-[17:10:13] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
-[17:10:13] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
-[17:10:13] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
-[17:10:13] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
-[17:10:16] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Baubles.
-[17:10:16] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
-[17:10:16] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
-[17:10:16] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
-[17:10:16] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Just Enough Items.
-[17:10:16] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
-[17:10:16] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
-[17:10:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `portal`, expected `mekanism`. This could be a intended override, but in most cases indicates a broken mod.
-[17:10:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `conveyor_tile`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
-[17:10:20] [Server thread/INFO] [FML]: Applying holder lookups
-[17:10:20] [Server thread/INFO] [FML]: Holder lookups applied
-[17:10:21] [Server thread/INFO] [FML]: Applying holder lookups
-[17:10:21] [Server thread/INFO] [FML]: Holder lookups applied
-[17:10:21] [Server thread/INFO] [FML]: Applying holder lookups
-[17:10:21] [Server thread/INFO] [FML]: Holder lookups applied
-[17:10:21] [Server thread/INFO] [FML]: Applying holder lookups
-[17:10:21] [Server thread/INFO] [FML]: Holder lookups applied
-[17:10:21] [Server thread/INFO] [FML]: Injecting itemstacks
-[17:10:21] [Server thread/INFO] [FML]: Itemstack injection complete
-[17:10:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[17:10:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[17:10:21] [Server thread/INFO] [Minecraft]: This server is running CatServer version git-CatServer-1.12.2-3440193 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
-[17:10:22] [Server thread/INFO] []: Server Ping Player Sample Count: 12
-[17:10:22] [Server thread/INFO] [Minecraft]: Using 4 threads for Netty based IO
-[17:10:22] [Server thread/INFO] [Minecraft]: Debug logging is enabled
-[17:10:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[17:10:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[17:10:22] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[17:10:22] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:10:22] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[17:10:22] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:10:22] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:10:23] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xic2.dust@8 = 1xitem.ingotIron@0
-[17:10:23] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xic2.dust@7 = 1xitem.ingotGold@0
-[17:10:23] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.Dust@0 = 1xitem.ingotIron@0
-[17:10:23] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.Dust@1 = 1xitem.ingotGold@0
-[17:10:23] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.thermalfoundation.material@0 = 1xitem.ingotIron@0
-[17:10:23] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.thermalfoundation.material@1 = 1xitem.ingotGold@0
-[17:10:23] [Server thread/INFO] [Minecraft]: -------- World Settings For [null] --------
-[17:10:23] [Server thread/INFO] [Minecraft]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[17:10:23] [Server thread/INFO] [Minecraft]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[17:10:23] [Server thread/INFO] [Minecraft]: Random Lighting Updates: false
-[17:10:23] [Server thread/INFO] [Minecraft]: Structure Info Saving: true
-[17:10:23] [Server thread/INFO] [Minecraft]: Mob Spawn Range: 4
-[17:10:23] [Server thread/INFO] [Minecraft]: Cactus Growth Modifier: 100%
-[17:10:23] [Server thread/INFO] [Minecraft]: Cane Growth Modifier: 100%
-[17:10:23] [Server thread/INFO] [Minecraft]: Melon Growth Modifier: 100%
-[17:10:23] [Server thread/INFO] [Minecraft]: Mushroom Growth Modifier: 100%
-[17:10:23] [Server thread/INFO] [Minecraft]: Pumpkin Growth Modifier: 100%
-[17:10:23] [Server thread/INFO] [Minecraft]: Sapling Growth Modifier: 100%
-[17:10:23] [Server thread/INFO] [Minecraft]: Wheat Growth Modifier: 100%
-[17:10:23] [Server thread/INFO] [Minecraft]: NetherWart Growth Modifier: 100%
-[17:10:23] [Server thread/INFO] [Minecraft]: Vine Growth Modifier: 100%
-[17:10:23] [Server thread/INFO] [Minecraft]: Cocoa Growth Modifier: 100%
-[17:10:23] [Server thread/INFO] [Minecraft]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[17:10:23] [Server thread/INFO] [Minecraft]: Max TNT Explosions: 100
-[17:10:23] [Server thread/INFO] [Minecraft]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:10:23] [Server thread/INFO] [Minecraft]: Experience Merge Radius: 3.0
-[17:10:23] [Server thread/INFO] [Minecraft]: Item Despawn Rate: 6000
-[17:10:23] [Server thread/INFO] [Minecraft]: Item Merge Radius: 2.5
-[17:10:23] [Server thread/INFO] [Minecraft]: Arrow Despawn Rate: 1200
-[17:10:23] [Server thread/INFO] [Minecraft]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:10:23] [Server thread/INFO] [Minecraft]: View Distance: 10
-[17:10:23] [Server thread/INFO] [Minecraft]: Zombie Aggressive Towards Villager: true
-[17:10:23] [Server thread/INFO] [Minecraft]: Nerfing mobs spawned from spawners: false
-[17:10:23] [Server thread/INFO] [Minecraft]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[17:10:23] [Server thread/INFO] [FML]: Applying holder lookups
-[17:10:23] [Server thread/INFO] [FML]: Holder lookups applied
-[17:10:23] [Server thread/INFO] [AE2:S]: Initialization ( started )
-[17:10:23] [Server thread/INFO] [AE2:S]: Disabling item.csv export for custom recipes, since creative tab information is only available on the client.
-[17:10:23] [Server thread/INFO] [AE2:S]: Initialization ( ended after 174ms )
-[17:10:24] [Server thread/INFO] [Mekanism]: Version 9.8.3 initializing...
-[17:10:25] [Server thread/INFO] [Mekanism]: Loading complete.
-[17:10:25] [Server thread/INFO] [Mekanism]: Mod loaded.
-[17:10:25] [Server thread/INFO] [Mekanism]: Loaded MekanismGenerators module.
-[17:10:25] [Server thread/INFO] [Mekanism]: bigreactors added recipe of type EnrichmentChamber to the recipe list.
-[17:10:25] [Server thread/INFO] [Mekanism]: bigreactors added recipe of type Crusher to the recipe list.
-[17:10:25] [Server thread/INFO] [Mekanism]: bigreactors added recipe of type Crusher to the recipe list.
-[17:10:25] [Server thread/INFO] [Mekanism]: bigreactors added recipe of type Crusher to the recipe list.
-[17:10:25] [Server thread/INFO] [Mekanism]: bigreactors added recipe of type Crusher to the recipe list.
-[17:10:25] [Server thread/INFO] [FML]: Injecting itemstacks
-[17:10:25] [Server thread/INFO] [FML]: Itemstack injection complete
-[17:10:25] [Server thread/WARN] [FML]: No types have been added to Biome appliedenergistics2:storage_biome, types have been assigned on a best-effort guess: [COLD, PLAINS]
-[17:10:25] [Server thread/INFO] [AE2:S]: Post Initialization ( started )
-[17:10:25] [Server thread/INFO] [AE2:S]: Industrial Craft 2 - Integration Enable
-[17:10:25] [Server thread/INFO] [AE2:S]: Railcraft - Integration Disabled
-[17:10:25] [Server thread/INFO] [AE2:S]: Mine Factory Reloaded - Integration Disabled
-[17:10:25] [Server thread/INFO] [AE2:S]: Waila - Integration Disabled
-[17:10:25] [Server thread/INFO] [AE2:S]: Mekanism - Integration Enable
-[17:10:25] [Server thread/INFO] [AE2:S]: OpenComputers - Integration Disabled
-[17:10:25] [Server thread/INFO] [AE2:S]: TheOneProbe - Integration Disabled
-[17:10:25] [Server thread/INFO] [AE2:S]: Tesla - Integration Disabled
-[17:10:25] [Server thread/INFO] [AE2:S]: CraftTweaker - Integration Disabled
-[17:10:25] [Server thread/INFO] [AE2:S]: Post Initialization ( ended after 227ms )
-[17:10:25] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
-[17:10:26] [Server thread/INFO] [ic2.General]: ic2 version 2.8.197-ex112 loaded.
-[17:10:26] [Server thread/INFO] [Mekanism]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[17:10:26] [Server thread/INFO] [Mekanism]: Hooked into IC2 successfully.
-[17:10:26] [Server thread/INFO] [Mekanism]: Hooked into AE2 successfully.
-[17:10:26] [Server thread/INFO] [Mekanism]: Finished loading Cardboard Box blacklist (loaded 0 entries)
-[17:10:26] [Server thread/INFO] [Mekanism]: Hooking complete.
-[17:10:26] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: Applied Energistics 2 Plugin Enabled.
-[17:10:26] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: IndustrialCraft 2 Plugin Enabled.
-[17:10:26] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: Twilight Forest Plugin Enabled.
-[17:10:26] [Server thread/INFO] [worldedit]: WorldEdit for Forge (version 6.1.10-SNAPSHOT) is loaded
-[17:10:26] [Server thread/INFO] [cofhcore]: CoFH Core: Load Complete.
-[17:10:26] [Server thread/INFO] [CoFH World]: Accumulating world generation files from: "/home/minecraft/config/cofh/world"
-[17:10:26] [Server thread/INFO] [CoFH World]: Found a total of 3 world generation files.
-[17:10:26] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh/world/01_thermalfoundation_ores.json":
-[17:10:26] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh/world/03_thermalfoundation_clathrates.json":
-[17:10:26] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh/world/02_thermalfoundation_oil.json":
-[17:10:26] [Server thread/INFO] [CoFH World]: CoFH World: Load Complete.
-[17:10:26] [Server thread/INFO] [thermalfoundation]: [Whitelist] Reading established Whitelist from file.
-[17:10:26] [Server thread/INFO] [thermalfoundation]: Thermal Foundation: Load Complete.
-[17:10:26] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: Load Complete.
-[17:10:26] [Server thread/INFO] [thermaldynamics]: Thermal Dynamics: Load Complete.
-[17:10:26] [Server thread/INFO] [thermalinnovation]: Thermal Innovation: Load Complete.
-[17:10:27] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 38 mods
-[17:10:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[17:10:27] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[17:10:28] [Server thread/INFO] [FML]: Applying holder lookups
-[17:10:28] [Server thread/INFO] [FML]: Holder lookups applied
-[17:10:31] [Server thread/INFO] [net.saralab.AntiExplosion]: [AntiExplosion] Loading AntiExplosion v1.0.1
-[17:10:31] [Server thread/INFO] [com.cnaude.scavenger.Scavenger]: [Scavenger] Loading Scavenger v1.7-48
-[17:10:31] [Server thread/INFO] [com.earth2me.essentials.Essentials]: [Essentials] Loading Essentials v2.17.2.54
-[17:10:31] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect]: [EssentialsProtect] Loading EssentialsProtect v2.17.2.54
-[17:10:31] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.2.54
-[17:10:31] [Server thread/INFO] [org.anjocaido.groupmanager.GroupManager]: [GroupManager] Loading GroupManager v3.3
-[17:10:31] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat]: [EssentialsChat] Loading EssentialsChat v2.17.2.54
-[17:10:31] [Server thread/INFO] [com.earth2me.essentials.geoip.EssentialsGeoIP]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.17.2.54
-[17:10:31] [Server thread/INFO] [com.comphenix.protocol.ProtocolLib]: [ProtocolLib] Loading ProtocolLib v4.5.0
-[17:10:33] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.17.2.54
-[17:10:33] [Server thread/INFO] [com.earth2me.essentials.xmpp.EssentialsXMPP]: [EssentialsXMPP] Loading EssentialsXMPP v2.17.2.54
-[17:10:33] [Server thread/INFO] [com.comphenix.protocol.ProtocolLib]: [ProtocolLib] Enabling ProtocolLib v4.5.0
-[17:10:33] [Server thread/INFO] [com.comphenix.protocol.ProtocolLib]: [ProtocolLib] Started structure compiler thread.
-[17:10:33] [Server thread/INFO] [Minecraft]: -------- World Settings For [world] --------
-[17:10:33] [Server thread/INFO] [Minecraft]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[17:10:33] [Server thread/INFO] [Minecraft]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[17:10:33] [Server thread/INFO] [Minecraft]: Random Lighting Updates: false
-[17:10:33] [Server thread/INFO] [Minecraft]: Structure Info Saving: true
-[17:10:33] [Server thread/INFO] [Minecraft]: Mob Spawn Range: 4
-[17:10:33] [Server thread/INFO] [Minecraft]: Cactus Growth Modifier: 100%
-[17:10:33] [Server thread/INFO] [Minecraft]: Cane Growth Modifier: 100%
-[17:10:33] [Server thread/INFO] [Minecraft]: Melon Growth Modifier: 100%
-[17:10:33] [Server thread/INFO] [Minecraft]: Mushroom Growth Modifier: 100%
-[17:10:33] [Server thread/INFO] [Minecraft]: Pumpkin Growth Modifier: 100%
-[17:10:33] [Server thread/INFO] [Minecraft]: Sapling Growth Modifier: 100%
-[17:10:33] [Server thread/INFO] [Minecraft]: Wheat Growth Modifier: 100%
-[17:10:33] [Server thread/INFO] [Minecraft]: NetherWart Growth Modifier: 100%
-[17:10:33] [Server thread/INFO] [Minecraft]: Vine Growth Modifier: 100%
-[17:10:33] [Server thread/INFO] [Minecraft]: Cocoa Growth Modifier: 100%
-[17:10:33] [Server thread/INFO] [Minecraft]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[17:10:33] [Server thread/INFO] [Minecraft]: Max TNT Explosions: 100
-[17:10:33] [Server thread/INFO] [Minecraft]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:10:33] [Server thread/INFO] [Minecraft]: Experience Merge Radius: 3.0
-[17:10:33] [Server thread/INFO] [Minecraft]: Item Despawn Rate: 6000
-[17:10:33] [Server thread/INFO] [Minecraft]: Item Merge Radius: 2.5
-[17:10:33] [Server thread/INFO] [Minecraft]: Arrow Despawn Rate: 1200
-[17:10:33] [Server thread/INFO] [Minecraft]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:10:33] [Server thread/INFO] [Minecraft]: View Distance: 10
-[17:10:33] [Server thread/INFO] [Minecraft]: Zombie Aggressive Towards Villager: true
-[17:10:33] [Server thread/INFO] [Minecraft]: Nerfing mobs spawned from spawners: false
-[17:10:33] [Server thread/INFO] [Minecraft]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[17:10:37] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@726a60c7)
-[17:10:37] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 768 advancements
-[17:10:37] [Server thread/INFO] [Minecraft]: -------- World Settings For [DIM-1] --------
-[17:10:37] [Server thread/INFO] [Minecraft]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[17:10:37] [Server thread/INFO] [Minecraft]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[17:10:37] [Server thread/INFO] [Minecraft]: Random Lighting Updates: false
-[17:10:37] [Server thread/INFO] [Minecraft]: Structure Info Saving: true
-[17:10:37] [Server thread/INFO] [Minecraft]: Mob Spawn Range: 4
-[17:10:37] [Server thread/INFO] [Minecraft]: Cactus Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Cane Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Melon Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Mushroom Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Pumpkin Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Sapling Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Wheat Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: NetherWart Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Vine Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Cocoa Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[17:10:37] [Server thread/INFO] [Minecraft]: Max TNT Explosions: 100
-[17:10:37] [Server thread/INFO] [Minecraft]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:10:37] [Server thread/INFO] [Minecraft]: Experience Merge Radius: 3.0
-[17:10:37] [Server thread/INFO] [Minecraft]: Item Despawn Rate: 6000
-[17:10:37] [Server thread/INFO] [Minecraft]: Item Merge Radius: 2.5
-[17:10:37] [Server thread/INFO] [Minecraft]: Arrow Despawn Rate: 1200
-[17:10:37] [Server thread/INFO] [Minecraft]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:10:37] [Server thread/INFO] [Minecraft]: View Distance: 10
-[17:10:37] [Server thread/INFO] [Minecraft]: Zombie Aggressive Towards Villager: true
-[17:10:37] [Server thread/INFO] [Minecraft]: Nerfing mobs spawned from spawners: false
-[17:10:37] [Server thread/INFO] [Minecraft]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[17:10:37] [Server thread/INFO] [FML]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@726a60c7)
-[17:10:37] [Server thread/INFO] [Minecraft]: -------- World Settings For [DIM1] --------
-[17:10:37] [Server thread/INFO] [Minecraft]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[17:10:37] [Server thread/INFO] [Minecraft]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[17:10:37] [Server thread/INFO] [Minecraft]: Random Lighting Updates: false
-[17:10:37] [Server thread/INFO] [Minecraft]: Structure Info Saving: true
-[17:10:37] [Server thread/INFO] [Minecraft]: Mob Spawn Range: 4
-[17:10:37] [Server thread/INFO] [Minecraft]: Cactus Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Cane Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Melon Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Mushroom Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Pumpkin Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Sapling Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Wheat Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: NetherWart Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Vine Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Cocoa Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[17:10:37] [Server thread/INFO] [Minecraft]: Max TNT Explosions: 100
-[17:10:37] [Server thread/INFO] [Minecraft]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:10:37] [Server thread/INFO] [Minecraft]: Experience Merge Radius: 3.0
-[17:10:37] [Server thread/INFO] [Minecraft]: Item Despawn Rate: 6000
-[17:10:37] [Server thread/INFO] [Minecraft]: Item Merge Radius: 2.5
-[17:10:37] [Server thread/INFO] [Minecraft]: Arrow Despawn Rate: 1200
-[17:10:37] [Server thread/INFO] [Minecraft]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:10:37] [Server thread/INFO] [Minecraft]: View Distance: 10
-[17:10:37] [Server thread/INFO] [Minecraft]: Zombie Aggressive Towards Villager: true
-[17:10:37] [Server thread/INFO] [Minecraft]: Nerfing mobs spawned from spawners: false
-[17:10:37] [Server thread/INFO] [Minecraft]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[17:10:37] [Server thread/INFO] [FML]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@726a60c7)
-[17:10:37] [Server thread/INFO] [Minecraft]: -------- World Settings For [DIM2] --------
-[17:10:37] [Server thread/INFO] [Minecraft]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[17:10:37] [Server thread/INFO] [Minecraft]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[17:10:37] [Server thread/INFO] [Minecraft]: Random Lighting Updates: false
-[17:10:37] [Server thread/INFO] [Minecraft]: Structure Info Saving: true
-[17:10:37] [Server thread/INFO] [Minecraft]: Mob Spawn Range: 4
-[17:10:37] [Server thread/INFO] [Minecraft]: Cactus Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Cane Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Melon Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Mushroom Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Pumpkin Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Sapling Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Wheat Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: NetherWart Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Vine Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Cocoa Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[17:10:37] [Server thread/INFO] [Minecraft]: Max TNT Explosions: 100
-[17:10:37] [Server thread/INFO] [Minecraft]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:10:37] [Server thread/INFO] [Minecraft]: Experience Merge Radius: 3.0
-[17:10:37] [Server thread/INFO] [Minecraft]: Item Despawn Rate: 6000
-[17:10:37] [Server thread/INFO] [Minecraft]: Item Merge Radius: 2.5
-[17:10:37] [Server thread/INFO] [Minecraft]: Arrow Despawn Rate: 1200
-[17:10:37] [Server thread/INFO] [Minecraft]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:10:37] [Server thread/INFO] [Minecraft]: View Distance: 10
-[17:10:37] [Server thread/INFO] [Minecraft]: Zombie Aggressive Towards Villager: true
-[17:10:37] [Server thread/INFO] [Minecraft]: Nerfing mobs spawned from spawners: false
-[17:10:37] [Server thread/INFO] [Minecraft]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[17:10:37] [Server thread/INFO] [FML]: Loading dimension 2 (DIM2) (net.minecraft.server.dedicated.DedicatedServer@726a60c7)
-[17:10:37] [Server thread/INFO] [Minecraft]: -------- World Settings For [DIM7] --------
-[17:10:37] [Server thread/INFO] [Minecraft]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[17:10:37] [Server thread/INFO] [Minecraft]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[17:10:37] [Server thread/INFO] [Minecraft]: Random Lighting Updates: false
-[17:10:37] [Server thread/INFO] [Minecraft]: Structure Info Saving: true
-[17:10:37] [Server thread/INFO] [Minecraft]: Mob Spawn Range: 4
-[17:10:37] [Server thread/INFO] [Minecraft]: Cactus Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Cane Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Melon Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Mushroom Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Pumpkin Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Sapling Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Wheat Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: NetherWart Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Vine Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Cocoa Growth Modifier: 100%
-[17:10:37] [Server thread/INFO] [Minecraft]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[17:10:37] [Server thread/INFO] [Minecraft]: Max TNT Explosions: 100
-[17:10:37] [Server thread/INFO] [Minecraft]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:10:37] [Server thread/INFO] [Minecraft]: Experience Merge Radius: 3.0
-[17:10:37] [Server thread/INFO] [Minecraft]: Item Despawn Rate: 6000
-[17:10:37] [Server thread/INFO] [Minecraft]: Item Merge Radius: 2.5
-[17:10:37] [Server thread/INFO] [Minecraft]: Arrow Despawn Rate: 1200
-[17:10:37] [Server thread/INFO] [Minecraft]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:10:37] [Server thread/INFO] [Minecraft]: View Distance: 10
-[17:10:37] [Server thread/INFO] [Minecraft]: Zombie Aggressive Towards Villager: true
-[17:10:37] [Server thread/INFO] [Minecraft]: Nerfing mobs spawned from spawners: false
-[17:10:37] [Server thread/INFO] [Minecraft]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[17:10:37] [Server thread/INFO] [FML]: Loading dimension 7 (DIM7) (net.minecraft.server.dedicated.DedicatedServer@726a60c7)
-[17:10:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0 (Seed: 4663644983617631141)
-[17:10:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
-[17:10:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 53%
-[17:10:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 1 (Seed: 4663644983617631141)
-[17:10:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 84%
-[17:10:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 2 (Seed: 4663644983617631141)
-[17:10:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 3 (Seed: 7158510415359321229)
-[17:10:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 50%
-[17:10:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 4 (Seed: 7158510415359321229)
-[17:10:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 38%
-[17:10:46] [Server thread/INFO] [net.saralab.AntiExplosion]: [AntiExplosion] Enabling AntiExplosion v1.0.1
-[17:10:46] [Server thread/INFO] [net.saralab.AntiExplosion]: [AntiExplosion] AntiExplosion is enabled!
-[17:10:46] [Server thread/INFO] [com.cnaude.scavenger.Scavenger]: [Scavenger] Enabling Scavenger v1.7-48
-[17:10:46] [Server thread/INFO] [Minecraft]: [Scavenger] Configuration loaded.
-[17:10:46] [Server thread/INFO] [Minecraft]: [Scavenger] Economy disabled. Item recovery will be free.
-[17:10:46] [Server thread/INFO] [Minecraft]: [Scavenger] Loaded ignore list. (Count = 0)
-[17:10:46] [Server thread/INFO] [Minecraft]: [Scavenger] Offline-mode is set to false, no Authenticator Hook
-[17:10:46] [Server thread/INFO] [com.earth2me.essentials.Essentials]: [Essentials] Enabling Essentials v2.17.2.54
-[17:10:46] [Server thread/INFO] [Essentials]: Attempting to convert old kits in config.yml to new kits.yml
-[17:10:46] [Server thread/INFO] [Essentials]: No kits found to migrate.
-[17:10:46] [Server thread/INFO] [com.earth2me.essentials.Essentials]: [Essentials] Using legacy item data provider as mob spawner provider.
-[17:10:46] [Server thread/INFO] [com.earth2me.essentials.Essentials]: [Essentials] Using Reflection based provider as spawn egg provider.
-[17:10:46] [Server thread/INFO] [com.earth2me.essentials.Essentials]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
-[17:10:47] [Server thread/INFO] [Essentials]: Loaded 852 items from items.csv.
-[17:10:47] [Server thread/INFO] [Essentials]: Using locale en_US
-[17:10:47] [Server thread/INFO] [com.earth2me.essentials.Essentials]: [Essentials] ServerListPingEvent: Spigot iterator API
-[17:10:47] [Server thread/INFO] [com.earth2me.essentials.Essentials]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[17:10:47] [Server thread/WARN] [com.earth2me.essentials.Essentials]: [Essentials] Detected supported permissions plugin GroupManager without Vault installed.
-[17:10:47] [Server thread/WARN] [com.earth2me.essentials.Essentials]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[17:10:47] [Server thread/INFO] [com.earth2me.essentials.Essentials]: [Essentials] Using superperms-based permissions.
-[17:10:47] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect]: [EssentialsProtect] Enabling EssentialsProtect v2.17.2.54
-[17:10:47] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect]: [EssentialsProtect] Continuing to enable Protect.
-[17:10:47] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.2.54
-[17:10:47] [Server thread/INFO] [org.anjocaido.groupmanager.GroupManager]: [GroupManager] Enabling GroupManager v3.3
-[17:10:47] [Server thread/INFO] []: [GM+] Checking Your version...
-[17:10:47] [Server thread/INFO] []: ===============================
-[17:10:47] [Server thread/INFO] []: 
-[17:10:47] [Server thread/INFO] []:  GroupManager+ is now enable!
-[17:10:47] [Server thread/INFO] []:  
-[17:10:47] [Server thread/INFO] []:  Thank you for using GroupManager+ :)
-[17:10:47] [Server thread/INFO] []:  GroupManager+ is create by HappyAreaBean!
-[17:10:47] [Server thread/INFO] []:  Current version: v3.3
-[17:10:47] [Server thread/INFO] []:  
-[17:10:47] [Server thread/INFO] []: ===============================
-[17:10:47] [Server thread/INFO] []: [GM+] [INFO] World Found: world
-[17:10:47] [Server thread/INFO] []: [GM+] [INFO] Superperms support enabled.
-[17:10:47] [Server thread/INFO] []: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
-[17:10:47] [Server thread/INFO] []: [GM+] [INFO] Backups will be retained for 24 hours!
-[17:10:47] [Server thread/INFO] []: [GM+] [INFO] GroupManager+ v3.3 is now enabled!
-[17:10:47] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat]: [EssentialsChat] Enabling EssentialsChat v2.17.2.54
-[17:10:47] [Server thread/INFO] [com.earth2me.essentials.geoip.EssentialsGeoIP]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.17.2.54
-[17:10:47] [Server thread/ERROR] [EssentialsGeoIP]: No license key found! Please visit https://essentialsx.cf/geoip for first time setup instructions.
-[17:10:47] [Server thread/ERROR] [EssentialsGeoIP]: Failed to read GeoIP database!
-java.io.FileNotFoundException: plugins/EssentialsGeoIP/GeoIP2-Country.mmdb (No such file or directory)
-	at java.io.RandomAccessFile.open0(Native Method) ~[?:1.8.0_242]
-	at java.io.RandomAccessFile.open(RandomAccessFile.java:316) ~[?:1.8.0_242]
-	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:243) ~[?:1.8.0_242]
-	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19) ~[EssentialsXGeoIP-2.17.2.54.jar:?]
-	at com.maxmind.db.Reader.<init>(Reader.java:116) ~[EssentialsXGeoIP-2.17.2.54.jar:?]
-	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:66) ~[EssentialsXGeoIP-2.17.2.54.jar:?]
-	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:54) ~[EssentialsXGeoIP-2.17.2.54.jar:?]
-	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:160) ~[EssentialsXGeoIP-2.17.2.54.jar:?]
-	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:162) [EssentialsXGeoIP-2.17.2.54.jar:?]
-	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:43) [EssentialsXGeoIP-2.17.2.54.jar:?]
-	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:31) [EssentialsXGeoIP-2.17.2.54.jar:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) [JavaPlugin.class:git-CatServer-1.12.2-3440193]
-	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:328) [JavaPluginLoader.class:git-CatServer-1.12.2-3440193]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [SimplePluginManager.class:git-CatServer-1.12.2-3440193]
-	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:436) [CraftServer.class:git-CatServer-1.12.2-3440193]
-	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:384) [CraftServer.class:git-CatServer-1.12.2-3440193]
-	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:391) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:327) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:602) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
-[17:10:47] [Server thread/INFO] [com.earth2me.essentials.geoip.EssentialsGeoIP]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
-[17:10:47] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.17.2.54
-[17:10:47] [Server thread/INFO] [com.earth2me.essentials.xmpp.EssentialsXMPP]: [EssentialsXMPP] Enabling EssentialsXMPP v2.17.2.54
-[17:10:47] [Server thread/WARN] [EssentialsXMPP]: config broken for xmpp
-[17:10:47] [Server thread/INFO] [Minecraft]: Server permissions file permissions.yml is empty, ignoring it
-[17:10:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (20.873s)! For help, type "help" or "?"
-[17:10:48] [Server thread/INFO] []: [GM+] [INFO] Bukkit Permissions Updated!
-[17:10:48] [Craft Scheduler Thread - 4/INFO] []: [GM+] Your version (v3.3) is outdated download the lastest version:
-[17:10:48] [Craft Scheduler Thread - 4/INFO] []: [GM+] https://www.spigotmc.org/resources/40615/
-[17:11:13] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Atlas17233 is 2479dfc0-6369-323b-bd01-05b473516ad8
-[17:11:15] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[17:11:15] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 61 mods : buildcraftlib@7.99.24.6,customskinloader@14.11,yarrmateys_cutemobmodels@1.0.16,buildcraftenergy@7.99.24.6,smoothfont@mc1.12.2-2.1.1,jei@4.15.0.291,buildcrafttransport@7.99.24.6,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,cofhcore@4.6.6,nei@2.4.3,dynamiclights@1.4.9,mekanism@1.12.2-9.8.3.390,thermalinnovation@0.3.6,thermalfoundation@2.6.7,scenter@1.12-3.11.0,mcp@9.42,smoothfontcore@mc1.12.2-2.1.1,appliedenergistics2@rv6-stable-7,forgelin@1.8.4,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,cofhworld@1.4.0,dynamiclights_otherplayers@1.0.9,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,durabilityshow@5.0.0,mcmultipart@2.5.3,forge@14.23.5.2847,twilightforest@3.10.1013,buildcraftrobotics@7.99.24.6,zerocore@1.12.2-0.1.2.8,minecraft@1.12.2,industrialforegoing@1.12.2-1.12.2,mousetweaks@2.10,dynamiclights_entityclasses@1.0.1,thermaldynamics@2.5.6,redstoneflux@2.1.1,buildcraftsilicon@7.99.24.6,veinminermodsupport@0.38.2,dynamiclights_dropitems@1.1.0,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,teslacorelib_registries@1.0.17,ic2@2.8.197-ex112,buildcraftbuilders@7.99.24.6,buildcraftfactory@7.99.24.6,veinminer@0.38.2,teslacorelib@1.0.17,FML@8.0.99.99,thermalexpansion@5.5.7,worldedit@6.1.10-SNAPSHOT,buildcraftcompat@7.99.24.6,bigreactors@1.12.2-0.4.5.67,foamfix@0.10.10-1.12.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.16,dynamiclights_creepers@1.0.6,codechickenlib@3.2.3.358,buildcraftcore@7.99.24.6,wailaharvestability@1.1.12
-[17:11:15] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [jecharacters] at CLIENT
-[17:11:15] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[17:11:16] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player DANTELZ is 837a3622-2af2-3eb8-893d-04d673540ad4
-[17:11:16] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[17:11:16] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 61 mods : buildcraftlib@7.99.24.6,customskinloader@14.11,yarrmateys_cutemobmodels@1.0.16,buildcraftenergy@7.99.24.6,smoothfont@mc1.12.2-2.1.1,jei@4.15.0.291,buildcrafttransport@7.99.24.6,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,cofhcore@4.6.6,nei@2.4.3,dynamiclights@1.4.9,mekanism@1.12.2-9.8.3.390,thermalinnovation@0.3.6,thermalfoundation@2.6.7,scenter@1.12-3.11.0,mcp@9.42,smoothfontcore@mc1.12.2-2.1.1,appliedenergistics2@rv6-stable-7,forgelin@1.8.4,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,cofhworld@1.4.0,dynamiclights_otherplayers@1.0.9,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,durabilityshow@5.0.0,mcmultipart@2.5.3,forge@14.23.5.2847,twilightforest@3.10.1013,buildcraftrobotics@7.99.24.6,zerocore@1.12.2-0.1.2.8,minecraft@1.12.2,industrialforegoing@1.12.2-1.12.2,mousetweaks@2.10,dynamiclights_entityclasses@1.0.1,thermaldynamics@2.5.6,redstoneflux@2.1.1,buildcraftsilicon@7.99.24.6,veinminermodsupport@0.38.2,dynamiclights_dropitems@1.1.0,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,teslacorelib_registries@1.0.17,ic2@2.8.197-ex112,buildcraftbuilders@7.99.24.6,buildcraftfactory@7.99.24.6,veinminer@0.38.2,teslacorelib@1.0.17,FML@8.0.99.99,thermalexpansion@5.5.7,worldedit@6.1.10-SNAPSHOT,buildcraftcompat@7.99.24.6,bigreactors@1.12.2-0.4.5.67,foamfix@0.10.10-1.12.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.16,dynamiclights_creepers@1.0.6,codechickenlib@3.2.3.358,buildcraftcore@7.99.24.6,wailaharvestability@1.1.12
-[17:11:16] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [jecharacters] at CLIENT
-[17:11:16] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[17:11:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[17:11:17] [Server thread/INFO] [Mekanism]: Sent config to 'DANTELZ.'
-[17:11:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: DANTELZ[/129.227.113.210:47881] logged in with entity id 934 at ([world]-8457505.242233481, 64.0, 2.9144123425711375E7)
-[17:11:18] [Server thread/WARN] [com.earth2me.essentials.Essentials]: [Essentials] Task #13 for Essentials v2.17.2.54 generated an exception
-java.lang.NullPointerException: null
-	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:146) ~[?:?]
-	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[CraftTask.class:git-CatServer-1.12.2-3440193]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:421) [CraftScheduler.class:git-CatServer-1.12.2-3440193]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:837) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:472) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:782) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:636) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
-[17:11:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[17:11:23] [Server thread/INFO] [Mekanism]: Sent config to 'Atlas17233.'
-[17:11:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Atlas17233[/5.18.247.142:1923] logged in with entity id 933 at ([world]-8457502.489051078, 64.0, 2.9144137897719193E7)
-[17:11:23] [Server thread/WARN] [com.earth2me.essentials.Essentials]: [Essentials] Task #20 for Essentials v2.17.2.54 generated an exception
-java.lang.NullPointerException: null
-	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:150) ~[?:?]
-	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[CraftTask.class:git-CatServer-1.12.2-3440193]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:421) [CraftScheduler.class:git-CatServer-1.12.2-3440193]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:837) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:472) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:782) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:636) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
-[17:11:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 lost connection: Timed out
-[17:11:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Atlas17233 left the game
-[17:11:48] [Server thread/WARN] [com.earth2me.essentials.Essentials]: [Essentials] Task #24 for Essentials v2.17.2.54 generated an exception
-java.lang.NullPointerException: null
-	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:146) ~[?:?]
-	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[CraftTask.class:git-CatServer-1.12.2-3440193]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:421) [CraftScheduler.class:git-CatServer-1.12.2-3440193]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:837) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:472) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:782) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:636) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
-[17:16:46] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Atlas17233 is 2479dfc0-6369-323b-bd01-05b473516ad8
-[17:16:46] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[17:16:46] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 61 mods : buildcraftlib@7.99.24.6,customskinloader@14.11,yarrmateys_cutemobmodels@1.0.16,buildcraftenergy@7.99.24.6,smoothfont@mc1.12.2-2.1.1,jei@4.15.0.291,buildcrafttransport@7.99.24.6,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,cofhcore@4.6.6,nei@2.4.3,dynamiclights@1.4.9,mekanism@1.12.2-9.8.3.390,thermalinnovation@0.3.6,thermalfoundation@2.6.7,scenter@1.12-3.11.0,mcp@9.42,smoothfontcore@mc1.12.2-2.1.1,appliedenergistics2@rv6-stable-7,forgelin@1.8.4,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,cofhworld@1.4.0,dynamiclights_otherplayers@1.0.9,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,durabilityshow@5.0.0,mcmultipart@2.5.3,forge@14.23.5.2847,twilightforest@3.10.1013,buildcraftrobotics@7.99.24.6,zerocore@1.12.2-0.1.2.8,minecraft@1.12.2,industrialforegoing@1.12.2-1.12.2,mousetweaks@2.10,dynamiclights_entityclasses@1.0.1,thermaldynamics@2.5.6,redstoneflux@2.1.1,buildcraftsilicon@7.99.24.6,veinminermodsupport@0.38.2,dynamiclights_dropitems@1.1.0,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,teslacorelib_registries@1.0.17,ic2@2.8.197-ex112,buildcraftbuilders@7.99.24.6,buildcraftfactory@7.99.24.6,veinminer@0.38.2,teslacorelib@1.0.17,FML@8.0.99.99,thermalexpansion@5.5.7,worldedit@6.1.10-SNAPSHOT,buildcraftcompat@7.99.24.6,bigreactors@1.12.2-0.4.5.67,foamfix@0.10.10-1.12.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.16,dynamiclights_creepers@1.0.6,codechickenlib@3.2.3.358,buildcraftcore@7.99.24.6,wailaharvestability@1.1.12
-[17:16:46] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [jecharacters] at CLIENT
-[17:16:46] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[17:16:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[17:16:52] [Server thread/INFO] [Mekanism]: Sent config to 'Atlas17233.'
-[17:16:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Atlas17233[/5.18.247.142:1972] logged in with entity id 1699 at ([world]-8457502.489051078, 64.0, 2.9144137897719193E7)
-[17:16:52] [Server thread/WARN] [com.earth2me.essentials.Essentials]: [Essentials] Task #29 for Essentials v2.17.2.54 generated an exception
-java.lang.NullPointerException: null
-	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:150) ~[?:?]
-	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[CraftTask.class:git-CatServer-1.12.2-3440193]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:421) [CraftScheduler.class:git-CatServer-1.12.2-3440193]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:837) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:472) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:782) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:636) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
-[17:17:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 lost connection: Timed out
-[17:17:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Atlas17233 left the game
-[17:17:17] [Server thread/WARN] [com.earth2me.essentials.Essentials]: [Essentials] Task #33 for Essentials v2.17.2.54 generated an exception
-java.lang.NullPointerException: null
-	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:146) ~[?:?]
-	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[CraftTask.class:git-CatServer-1.12.2-3440193]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:421) [CraftScheduler.class:git-CatServer-1.12.2-3440193]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:837) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:472) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:782) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:636) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
-[17:19:17] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Atlas17233 is 2479dfc0-6369-323b-bd01-05b473516ad8
-[17:19:17] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[17:19:17] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 61 mods : buildcraftlib@7.99.24.6,customskinloader@14.11,yarrmateys_cutemobmodels@1.0.16,buildcraftenergy@7.99.24.6,smoothfont@mc1.12.2-2.1.1,jei@4.15.0.291,buildcrafttransport@7.99.24.6,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,cofhcore@4.6.6,nei@2.4.3,dynamiclights@1.4.9,mekanism@1.12.2-9.8.3.390,thermalinnovation@0.3.6,thermalfoundation@2.6.7,scenter@1.12-3.11.0,mcp@9.42,smoothfontcore@mc1.12.2-2.1.1,appliedenergistics2@rv6-stable-7,forgelin@1.8.4,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,cofhworld@1.4.0,dynamiclights_otherplayers@1.0.9,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,durabilityshow@5.0.0,mcmultipart@2.5.3,forge@14.23.5.2847,twilightforest@3.10.1013,buildcraftrobotics@7.99.24.6,zerocore@1.12.2-0.1.2.8,minecraft@1.12.2,industrialforegoing@1.12.2-1.12.2,mousetweaks@2.10,dynamiclights_entityclasses@1.0.1,thermaldynamics@2.5.6,redstoneflux@2.1.1,buildcraftsilicon@7.99.24.6,veinminermodsupport@0.38.2,dynamiclights_dropitems@1.1.0,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,teslacorelib_registries@1.0.17,ic2@2.8.197-ex112,buildcraftbuilders@7.99.24.6,buildcraftfactory@7.99.24.6,veinminer@0.38.2,teslacorelib@1.0.17,FML@8.0.99.99,thermalexpansion@5.5.7,worldedit@6.1.10-SNAPSHOT,buildcraftcompat@7.99.24.6,bigreactors@1.12.2-0.4.5.67,foamfix@0.10.10-1.12.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.16,dynamiclights_creepers@1.0.6,codechickenlib@3.2.3.358,buildcraftcore@7.99.24.6,wailaharvestability@1.1.12
-[17:19:17] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [jecharacters] at CLIENT
-[17:19:18] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[17:19:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[17:19:20] [Server thread/INFO] [Mekanism]: Sent config to 'Atlas17233.'
-[17:19:20] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Atlas17233[/5.18.247.142:1841] logged in with entity id 1931 at ([world]-8457502.489051078, 64.0, 2.9144137897719193E7)
-[17:19:20] [Server thread/WARN] [com.earth2me.essentials.Essentials]: [Essentials] Task #37 for Essentials v2.17.2.54 generated an exception
-java.lang.NullPointerException: null
-	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:150) ~[?:?]
-	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[CraftTask.class:git-CatServer-1.12.2-3440193]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:421) [CraftScheduler.class:git-CatServer-1.12.2-3440193]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:837) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:472) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:782) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:636) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
-[17:20:47] [pool-13-thread-1/INFO] []: [GM+] [INFO]  Data files refreshed.
-[17:21:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /time set 1920000
-[17:21:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DANTELZ issued server command: //copy
-[17:22:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DANTELZ issued server command: //paste
-[17:22:30] [Server thread/INFO] [ic2.PlayerActivity]: Player DANTELZ/837a3622-2af2-3eb8-893d-04d673540ad4 placed a nuke at dim 0: -8457547/62/29144290.
-[17:22:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /tp atlas17233 dantelz
-[17:23:06] [Server thread/INFO] [ic2.PlayerActivity]: Nuke at dim 0: -8457547/62/29144290 was ignited indirectly.
-[17:24:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: //set 0
-[17:24:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: //set 4
-[17:24:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: //set 2
-[17:25:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DANTELZ lost connection: Disconnected
-[17:25:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DANTELZ left the game
-[17:25:17] [Server thread/WARN] [com.earth2me.essentials.Essentials]: [Essentials] Task #43 for Essentials v2.17.2.54 generated an exception
-java.lang.NullPointerException: null
-	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:146) ~[?:?]
-	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[CraftTask.class:git-CatServer-1.12.2-3440193]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:421) [CraftScheduler.class:git-CatServer-1.12.2-3440193]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:837) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:472) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:782) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:636) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
-[17:25:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /gamemode 0 Atlas17233
-[17:26:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /gamemode 1 Atlas17233
-[17:26:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /gamemode 0 Atlas17233
-[17:34:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /gamemode 1 Atlas17233
-[17:34:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /time set 1944000
-[17:41:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /gamemode 0 Atlas17233
-[17:43:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /gamemode 1 Atlas17233
-[17:43:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /gamemode 0 Atlas17233
-[17:44:49] [Server thread/INFO] [ic2.PlayerActivity]: Player Atlas17233/2479dfc0-6369-323b-bd01-05b473516ad8 used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=blast_furnace] (te BlastFurnace) at dim 0: -8457505/64/29144135.
-[17:45:12] [Server thread/INFO] [ic2.PlayerActivity]: Player Atlas17233/2479dfc0-6369-323b-bd01-05b473516ad8 used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=metal_former] (te MetalFormer) at dim 0: -8457506/64/29144135.
-[17:45:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /time set 1968000
-[17:45:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /gamemode 1 Atlas17233
-[17:47:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /gamemode 0 Atlas17233
-[17:52:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /gamemode 1 Atlas17233
-[17:56:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /time set 1992000
-[18:03:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /gamemode 0 Atlas17233
-[18:05:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /gamemode 1 Atlas17233
-[18:06:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /gamemode 0 Atlas17233
-[18:11:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /gamemode 1 Atlas17233
-[18:12:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /gamemode 0 Atlas17233
-[18:12:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /gamemode 1 Atlas17233
-[18:13:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /gamemode 0 Atlas17233
-[18:13:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /time set 2016000
-[18:17:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /toggledownfall
-[18:17:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Atlas17233: Toggled downfall]
-[18:17:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /time set 2040000
-[18:19:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /gamemode 1 Atlas17233
-[18:19:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /give Atlas17233 ic2:fluid_cell 64 0 {Fluid:{FluidName:"ic2air",Amount:1000}}
-[18:20:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 issued server command: /gamemode 0 Atlas17233
-[18:20:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Atlas17233 lost connection: Disconnected
-[18:20:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Atlas17233 left the game
-[18:20:56] [Server thread/WARN] [com.earth2me.essentials.Essentials]: [Essentials] Task #47 for Essentials v2.17.2.54 generated an exception
-java.lang.NullPointerException: null
-	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:142) ~[?:?]
-	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[CraftTask.class:git-CatServer-1.12.2-3440193]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:421) [CraftScheduler.class:git-CatServer-1.12.2-3440193]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:837) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:472) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:782) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:636) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
-[18:21:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[18:21:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[18:21:52] [Server thread/INFO] [com.earth2me.essentials.xmpp.EssentialsXMPP]: [EssentialsXMPP] Disabling EssentialsXMPP v2.17.2.54
-[18:21:52] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.17.2.54
-[18:21:52] [Server thread/INFO] [com.comphenix.protocol.ProtocolLib]: [ProtocolLib] Disabling ProtocolLib v4.5.0
-[18:21:52] [Server thread/INFO] [com.earth2me.essentials.geoip.EssentialsGeoIP]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.17.2.54
-[18:21:52] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat]: [EssentialsChat] Disabling EssentialsChat v2.17.2.54
-[18:21:52] [Server thread/INFO] [org.anjocaido.groupmanager.GroupManager]: [GroupManager] Disabling GroupManager v3.3
-[18:21:52] [Server thread/INFO] []: [GM+] [INFO] Scheduled Data Saving is disabled!
-[18:21:52] [Server thread/INFO] []: GroupManager version 3.3 is disabled!
-[18:21:52] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.54
-[18:21:52] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect]: [EssentialsProtect] Disabling EssentialsProtect v2.17.2.54
-[18:21:52] [Server thread/INFO] [com.earth2me.essentials.Essentials]: [Essentials] Disabling Essentials v2.17.2.54
-[18:21:52] [Server thread/INFO] [com.cnaude.scavenger.Scavenger]: [Scavenger] Disabling Scavenger v1.7-48
-[18:21:52] [Server thread/INFO] [Minecraft]: [Scavenger] Saved ignore list. (Count = 0)
-[18:21:52] [Server thread/INFO] [net.saralab.AntiExplosion]: [AntiExplosion] Disabling AntiExplosion v1.0.1
-[18:21:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[18:21:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[18:21:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[18:21:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM-1'/the_nether
-[18:21:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM1'/the_end
-[18:21:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM2'/Storage Cell
-[18:21:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM7'/twilight_forest
-[18:21:52] [Server thread/INFO] [FML]: Unloading dimension 0
-[18:21:52] [Server thread/INFO] [FML]: Unloading dimension -1
-[18:21:52] [Server thread/INFO] [FML]: Unloading dimension 1
-[18:21:52] [Server thread/INFO] [FML]: Unloading dimension 2
-[18:21:52] [Server thread/INFO] [FML]: Unloading dimension 7
+[11:25:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[11:25:22] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[11:25:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[11:25:22] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[11:25:22] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_242, running on Linux:amd64:4.9.0-12-amd64, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[11:25:23] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[11:25:23] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[11:25:23] [main/WARN] [FML]: The coremod CatCorePlugin (catserver.server.CatCorePlugin) is not signed!
+[11:25:23] [main/INFO] [FML]: Searching /home/minecraft/./mods for mods
+[11:25:23] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[11:25:23] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:25:23] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[11:25:23] [main/WARN] [FML]: The coremod me.towdium.jecharacters.core.JechCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:25:23] [main/WARN] [FML]: The coremod JechCore (me.towdium.jecharacters.core.JechCore) is not signed!
+[11:25:23] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.12.2-9.8.3.390.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[11:25:23] [main/WARN] [FML]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:25:23] [main/WARN] [FML]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
+[11:25:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:25:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:25:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:25:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:25:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:25:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:25:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:25:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:25:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:25:26] [main/INFO] [jecharacters]: Starting loading pinyin data
+[11:25:26] [main/INFO] [jecharacters]: Finished loading pinyin data
+[11:25:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:25:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:25:27] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:25:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:25:28] [main/INFO] [jecharacters]: Class name: org.bukkit.event.world.WorldLoadEvent
+[11:25:28] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[11:25:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[11:25:32] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2847 Initialized
+[11:25:32] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[11:25:32] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[11:25:32] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[11:25:33] [Server thread/INFO] [FML]: Searching /home/minecraft/./mods for mods
+[11:25:34] [Server thread/WARN] [FML]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.3.358
+[11:25:35] [Server thread/WARN] [FML]: Mod mekanismgenerators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
+[11:25:35] [Server thread/WARN] [FML]: Mod veinminer is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.38.2
+[11:25:35] [Server thread/WARN] [FML]: Mod veinminermodsupport is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.38.2
+[11:25:35] [Server thread/INFO] [FML]: Forge Mod Loader has identified 38 mods to load
+[11:25:36] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[11:25:36] [Server thread/WARN] [FML]: Missing English translation for buildcraftbuilders: assets/buildcraftbuilders/lang/en_us.lang
+[11:25:36] [Server thread/WARN] [FML]: Missing English translation for buildcraftcore: assets/buildcraftcore/lang/en_us.lang
+[11:25:36] [Server thread/WARN] [FML]: Missing English translation for buildcraftenergy: assets/buildcraftenergy/lang/en_us.lang
+[11:25:36] [Server thread/WARN] [FML]: Missing English translation for buildcraftfactory: assets/buildcraftfactory/lang/en_us.lang
+[11:25:36] [Server thread/WARN] [FML]: Missing English translation for buildcraftrobotics: assets/buildcraftrobotics/lang/en_us.lang
+[11:25:36] [Server thread/WARN] [FML]: Missing English translation for buildcraftsilicon: assets/buildcraftsilicon/lang/en_us.lang
+[11:25:36] [Server thread/WARN] [FML]: Missing English translation for buildcrafttransport: assets/buildcrafttransport/lang/en_us.lang
+[11:25:36] [Server thread/WARN] [FML]: Missing English translation for codechickenlib: assets/codechickenlib/lang/en_us.lang
+[11:25:36] [Server thread/WARN] [FML]: Missing English translation for cofhcore: assets/cofhcore/lang/en_us.lang
+[11:25:36] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[11:25:36] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
+[11:25:36] [Server thread/WARN] [FML]: Missing English translation for mcmultipart: assets/mcmultipart/lang/en_us.lang
+[11:25:36] [Server thread/WARN] [FML]: Missing English translation for mekanismgenerators: assets/mekanismgenerators/lang/en_us.lang
+[11:25:36] [Server thread/WARN] [FML]: Missing English translation for redstoneflux: assets/redstoneflux/lang/en_us.lang
+[11:25:36] [Server thread/WARN] [FML]: Missing English translation for teslacorelib_registries: assets/teslacorelib_registries/lang/en_us.lang
+[11:25:36] [Server thread/WARN] [FML]: Missing English translation for veinminermodsupport: assets/veinminermodsupport/lang/en_us.lang
+[11:25:36] [Server thread/WARN] [FML]: Missing English translation for worldedit: assets/worldedit/lang/en_us.lang
+[11:25:36] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jecharacters, appliedenergistics2, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, codechickenlib, cofhcore, cofhworld, bigreactors, forgelin, ic2, industrialforegoing, mcmultipart, mekanism, mekanismgenerators, redstoneflux, teslacorelib, teslacorelib_registries, thermaldynamics, thermalexpansion, thermalfoundation, thermalinnovation, twilightforest, veinminer, veinminermodsupport, worldedit, yarrmateys_cutemobmodels, zerocore] at CLIENT
+[11:25:36] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jecharacters, appliedenergistics2, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, codechickenlib, cofhcore, cofhworld, bigreactors, forgelin, ic2, industrialforegoing, mcmultipart, mekanism, mekanismgenerators, redstoneflux, teslacorelib, teslacorelib_registries, thermaldynamics, thermalexpansion, thermalfoundation, thermalinnovation, twilightforest, veinminer, veinminermodsupport, worldedit, yarrmateys_cutemobmodels, zerocore] at SERVER
+[11:25:37] [Server thread/ERROR] [FML]: The mod redstoneflux is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source RedstoneFlux-1.12-2.1.1.1-universal.jar, however there is no signature matching that description
+[11:25:37] [Server thread/ERROR] [FML]: The mod cofhworld is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source CoFHWorld-1.12.2-1.4.0.1-universal.jar, however there is no signature matching that description
+[11:25:40] [Server thread/WARN] [teslacorelib]: Annotated class 'net.ndrei.teslacorelib.blocks.multipart.MultiPartBlockEvents' not found!
+[11:25:40] [Server thread/ERROR] [FML]: The mod thermalfoundation is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalFoundation-1.12.2-2.6.7.1-universal.jar, however there is no signature matching that description
+[11:25:40] [Server thread/ERROR] [FML]: The mod thermalexpansion is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalExpansion-1.12.2-5.5.7.1-universal.jar, however there is no signature matching that description
+[11:25:40] [Server thread/ERROR] [FML]: The mod thermaldynamics is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalDynamics-1.12.2-2.5.6.1-universal.jar, however there is no signature matching that description
+[11:25:40] [Server thread/ERROR] [FML]: The mod thermalinnovation is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalInnovation-1.12.2-0.3.6.1-universal.jar, however there is no signature matching that description
+[11:25:41] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[11:25:41] [Server thread/INFO] [FML]: Found 1628 ObjectHolder annotations
+[11:25:41] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[11:25:41] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[11:25:41] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[11:25:41] [Server thread/INFO] [AE2:S]: Pre Initialization ( started )
+[11:25:44] [Server thread/INFO] [AE2:S]: Starting AE2 VersionChecker
+[11:25:44] [Server thread/INFO] [AE2:S]: Pre Initialization ( ended after 2358ms )
+[11:25:44] [AE2 VersionChecker/INFO] [AE2:S]: Last check was just recently.
+[11:25:44] [AE2 VersionChecker/INFO] [AE2:S]: Stopping AE2 VersionChecker
+[11:25:44] [Server thread/INFO] [BuildCraft]: 
+[11:25:44] [Server thread/INFO] [BuildCraft]: Starting BuildCraft 7.99.24.6
+[11:25:44] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2018
+[11:25:44] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
+[11:25:44] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
+[11:25:44] [Server thread/INFO] [BuildCraft]:   Branch HEAD
+[11:25:44] [Server thread/INFO] [BuildCraft]:   Commit 28b89ad8936f9d6c1ad00a7491453f68fc683232
+[11:25:44] [Server thread/INFO] [BuildCraft]:     Update Localisation, changelog and version for 7.99.24.6
+[11:25:44] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
+[11:25:44] [Server thread/INFO] [BuildCraft]: 
+[11:25:44] [Server thread/INFO] [BuildCraft]: Loaded Modules:
+[11:25:44] [Server thread/INFO] [BuildCraft]:   - lib
+[11:25:44] [Server thread/INFO] [BuildCraft]:   - core
+[11:25:44] [Server thread/INFO] [BuildCraft]:   - builders
+[11:25:44] [Server thread/INFO] [BuildCraft]:   - energy
+[11:25:44] [Server thread/INFO] [BuildCraft]:   - factory
+[11:25:44] [Server thread/INFO] [BuildCraft]:   - robotics
+[11:25:44] [Server thread/INFO] [BuildCraft]:   - silicon
+[11:25:44] [Server thread/INFO] [BuildCraft]:   - transport
+[11:25:44] [Server thread/INFO] [BuildCraft]:   - compat
+[11:25:44] [Server thread/INFO] [BuildCraft]: Missing Modules:
+[11:25:44] [Server thread/INFO] [BuildCraft]: 
+[11:25:44] [Server thread/INFO] [BuildCraft]: [debugger] Not a dev environment!
+[11:25:44] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[11:25:45] [Server thread/INFO] [BuildCraft]: 
+[11:25:45] [Server thread/INFO] [BuildCraft]: Starting BuildCraftCompat 7.99.24.6
+[11:25:45] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2017
+[11:25:45] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
+[11:25:45] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
+[11:25:45] [Server thread/INFO] [BuildCraft]:   Branch 8.0.x-1.12.2
+[11:25:45] [Server thread/INFO] [BuildCraft]:   Commit 3ce2fe3c5d1a541dcc0db3285bdb840e44615cde
+[11:25:45] [Server thread/INFO] [BuildCraft]:     Update BC for 7.99.24.6
+[11:25:45] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
+[11:25:45] [Server thread/INFO] [BuildCraft]: 
+[11:25:45] [Server thread/INFO] [BuildCraft]: [compat] Module list:
+[11:25:45] [Server thread/INFO] [BuildCraft]: [compat]   x forestry (It cannot load)
+[11:25:45] [Server thread/INFO] [BuildCraft]: [compat]   x theoneprobe (It cannot load)
+[11:25:45] [Server thread/INFO] [BuildCraft]: [compat]   x crafttweaker (It cannot load)
+[11:25:46] [Server thread/INFO] [CoFH World]: Registering default Feature Templates...
+[11:25:46] [Server thread/INFO] [CoFH World]: Registering default World Generators...
+[11:25:46] [Server thread/INFO] [CoFH World]: Verifying or creating base world generation directory...
+[11:25:46] [Server thread/INFO] [CoFH World]: Complete.
+[11:25:46] [Server thread/INFO] [BigReactors]: Loaded support for thermalexpansion
+[11:25:46] [Server thread/INFO] [BigReactors]: Loaded support for mekanism
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
